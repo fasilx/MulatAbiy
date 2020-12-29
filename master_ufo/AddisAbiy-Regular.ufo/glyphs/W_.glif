@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="882"/>
+  <unicode hex="0057"/>
+  <outline>
+    <component base="_diagonal.long" xScale="0.99619" xyScale="-0.08716" yxScale="0.08716" yScale="0.99619" xOffset="-85" yOffset="28"/>
+    <component base="_diagonal.short" xScale="0.96126" xyScale="0.27564" yxScale="0.27564" yScale="-0.96126" xOffset="65" yOffset="626"/>
+    <component base="_diagonal.short" xScale="-0.9563" xyScale="0.29237" yxScale="-0.29237" yScale="-0.9563" xOffset="859" yOffset="627"/>
+    <component base="_diagonal.long" xScale="0.98769" xyScale="0.15643" yxScale="0.15643" yScale="-0.98769" xOffset="352" yOffset="664"/>
+  </outline>
+</glyph>

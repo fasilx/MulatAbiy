@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon-ethiopic" format="2">
+  <advance width="428"/>
+  <unicode hex="1365"/>
+  <outline>
+    <contour>
+      <point x="154" y="113" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="113" type="line"/>
+      <point x="154" y="113" type="line"/>
+      <point x="154" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="613" type="line"/>
+      <point x="154" y="500" type="line"/>
+      <point x="268" y="500" type="line"/>
+      <point x="268" y="613" type="line"/>
+      <point x="154" y="613" type="line"/>
+      <point x="154" y="613" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="328" type="line"/>
+      <point x="60" y="257" type="line"/>
+      <point x="368" y="257" type="line"/>
+      <point x="368" y="328" type="line"/>
+      <point x="60" y="328" type="line"/>
+      <point x="60" y="328" type="line"/>
+    </contour>
+  </outline>
+</glyph>

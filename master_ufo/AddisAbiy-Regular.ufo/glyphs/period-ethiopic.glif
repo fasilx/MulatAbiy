@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period-ethiopic" format="2">
+  <advance width="480"/>
+  <unicode hex="1362"/>
+  <outline>
+    <contour>
+      <point x="60" y="113" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="113" type="line"/>
+      <point x="60" y="113" type="line"/>
+      <point x="60" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="113" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="424" y="113" type="line"/>
+      <point x="310" y="113" type="line"/>
+      <point x="310" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="503" type="line"/>
+      <point x="60" y="390" type="line"/>
+      <point x="174" y="390" type="line"/>
+      <point x="174" y="503" type="line"/>
+      <point x="60" y="503" type="line"/>
+      <point x="60" y="503" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="503" type="line"/>
+      <point x="310" y="390" type="line"/>
+      <point x="424" y="390" type="line"/>
+      <point x="424" y="503" type="line"/>
+      <point x="310" y="503" type="line"/>
+      <point x="310" y="503" type="line"/>
+    </contour>
+  </outline>
+</glyph>

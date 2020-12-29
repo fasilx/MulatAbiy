@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="400" default="400">
+      <map input="400" output="100"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="AddisAbiy-Regular.ufo" name="Addis Abiy Regular" familyname="Addis Abiy" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Addis Abiy Regular" familyname="Addis Abiy" stylename="Regular" filename="instance_ufo/AddisAbiy.ufo" stylemapfamilyname="Addis Abiy" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>_bar.part</string>
+        <string>_bar.up</string>
+        <string>_diagonal.long</string>
+        <string>_diagonal.short</string>
+        <string>_number.bar</string>
+        <string>_part.ha</string>
+        <string>_part.haa</string>
+        <string>_part.hee</string>
+        <string>_part.hi</string>
+        <string>_part.ho</string>
+        <string>_part.hoa</string>
+        <string>_part.hoo</string>
+        <string>_part.hu</string>
+        <string>_smart.haa</string>
+        <string>_smart.he.acute</string>
+        <string>_smart.hee</string>
+        <string>_smart.hi</string>
+        <string>_smart.ho</string>
+        <string>_smart.hu</string>
+        <string>_smart.hwa</string>
+        <string>_smart.neck</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

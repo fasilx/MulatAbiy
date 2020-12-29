@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.hoa" format="2">
+  <advance width="282"/>
+  <outline>
+    <contour>
+      <point x="471" y="-65" type="line"/>
+      <point x="471" y="-175" type="line" smooth="yes"/>
+      <point x="471" y="-186"/>
+      <point x="480" y="-195"/>
+      <point x="491" y="-195" type="curve" smooth="yes"/>
+      <point x="492" y="-195" type="line" smooth="yes"/>
+      <point x="503" y="-195"/>
+      <point x="512" y="-186"/>
+      <point x="512" y="-175" type="curve" smooth="yes"/>
+      <point x="512" y="-65" type="line"/>
+      <point x="471" y="-65" type="line"/>
+      <point x="471" y="-65" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="-105" type="line"/>
+      <point x="512" y="-105" type="line"/>
+      <point x="512" y="-64" type="line"/>
+      <point x="370" y="-64" type="line"/>
+      <point x="371" y="-105" type="line"/>
+      <point x="371" y="-105" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="-15" type="line"/>
+      <point x="431" y="-75" type="line" smooth="yes"/>
+      <point x="431" y="-86"/>
+      <point x="440" y="-95"/>
+      <point x="451" y="-95" type="curve" smooth="yes"/>
+      <point x="452" y="-95" type="line" smooth="yes"/>
+      <point x="463" y="-95"/>
+      <point x="472" y="-86"/>
+      <point x="472" y="-75" type="curve" smooth="yes"/>
+      <point x="472" y="-15" type="line"/>
+      <point x="431" y="-15" type="line"/>
+      <point x="431" y="-15" type="line"/>
+    </contour>
+  </outline>
+</glyph>

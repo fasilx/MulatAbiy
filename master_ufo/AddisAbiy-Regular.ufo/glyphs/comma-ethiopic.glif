@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma-ethiopic" format="2">
+  <advance width="382"/>
+  <unicode hex="1363"/>
+  <outline>
+    <contour>
+      <point x="162" y="113" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="276" y="113" type="line"/>
+      <point x="162" y="113" type="line"/>
+      <point x="162" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="413" type="line"/>
+      <point x="162" y="300" type="line"/>
+      <point x="276" y="300" type="line"/>
+      <point x="276" y="413" type="line"/>
+      <point x="162" y="413" type="line"/>
+      <point x="162" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="600" type="line"/>
+      <point x="60" y="500" type="line"/>
+      <point x="322" y="500" type="line"/>
+      <point x="322" y="600" type="line"/>
+      <point x="60" y="600" type="line"/>
+      <point x="60" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

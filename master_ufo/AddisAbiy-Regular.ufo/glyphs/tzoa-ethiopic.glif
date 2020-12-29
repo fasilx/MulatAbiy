@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tzoa-ethiopic" format="2">
+  <advance width="590"/>
+  <unicode hex="1347"/>
+  <outline>
+    <contour>
+      <point x="460" y="341" type="line"/>
+      <point x="214" y="341" type="line"/>
+      <point x="214" y="312" type="line"/>
+      <point x="460" y="312" type="line"/>
+      <point x="460" y="341" type="line"/>
+      <point x="460" y="341" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="500" type="curve" smooth="yes"/>
+      <point x="180" y="500" type="line" smooth="yes"/>
+      <point x="157" y="500"/>
+      <point x="139" y="482"/>
+      <point x="139" y="459" type="curve" smooth="yes"/>
+      <point x="139" y="41" type="line" smooth="yes"/>
+      <point x="139" y="18"/>
+      <point x="157" y="0"/>
+      <point x="180" y="0" type="curve" smooth="yes"/>
+      <point x="499" y="0" type="line" smooth="yes"/>
+      <point x="522" y="0"/>
+      <point x="540" y="18"/>
+      <point x="540" y="41" type="curve" smooth="yes"/>
+      <point x="540" y="459" type="line" smooth="yes"/>
+      <point x="540" y="482"/>
+      <point x="522" y="500"/>
+    </contour>
+    <contour>
+      <point x="439" y="41" type="curve" smooth="yes"/>
+      <point x="240" y="41" type="line" smooth="yes"/>
+      <point x="229" y="41"/>
+      <point x="220" y="50"/>
+      <point x="220" y="61" type="curve" smooth="yes"/>
+      <point x="220" y="439" type="line" smooth="yes"/>
+      <point x="220" y="450"/>
+      <point x="229" y="459"/>
+      <point x="240" y="459" type="curve" smooth="yes"/>
+      <point x="439" y="459" type="line" smooth="yes"/>
+      <point x="450" y="459"/>
+      <point x="459" y="450"/>
+      <point x="459" y="439" type="curve" smooth="yes"/>
+      <point x="459" y="61" type="line" smooth="yes"/>
+      <point x="459" y="50"/>
+      <point x="450" y="41"/>
+    </contour>
+    <contour>
+      <point x="369" y="-121" type="line"/>
+      <point x="259" y="-121" type="line" smooth="yes"/>
+      <point x="248" y="-121"/>
+      <point x="239" y="-130"/>
+      <point x="239" y="-141" type="curve" smooth="yes"/>
+      <point x="239" y="-142" type="line" smooth="yes"/>
+      <point x="239" y="-153"/>
+      <point x="248" y="-162"/>
+      <point x="259" y="-162" type="curve" smooth="yes"/>
+      <point x="369" y="-162" type="line"/>
+      <point x="369" y="-121" type="line"/>
+      <point x="369" y="-121" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="-21" type="line"/>
+      <point x="329" y="-162" type="line"/>
+      <point x="370" y="-162" type="line"/>
+      <point x="370" y="-20" type="line"/>
+      <point x="329" y="-21" type="line"/>
+      <point x="329" y="-21" type="line"/>
+    </contour>
+    <component base="_part.hoo" xScale="-1" xOffset="630"/>
+  </outline>
+</glyph>

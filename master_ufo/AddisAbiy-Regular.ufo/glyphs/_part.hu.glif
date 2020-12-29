@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.hu" format="2">
+  <advance width="220"/>
+  <outline>
+    <contour>
+      <point x="60" y="264" type="curve" smooth="yes"/>
+      <point x="60" y="263" type="line" smooth="yes"/>
+      <point x="60" y="252"/>
+      <point x="69" y="243"/>
+      <point x="80" y="243" type="curve" smooth="yes"/>
+      <point x="160" y="243" type="line"/>
+      <point x="160" y="284" type="line"/>
+      <point x="80" y="284" type="line" smooth="yes"/>
+      <point x="69" y="284"/>
+      <point x="60" y="275"/>
+    </contour>
+  </outline>
+</glyph>

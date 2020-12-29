@@ -1,0 +1,70 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+
+
+feature aalt {
+# automatic
+feature sups;
+feature frac;
+feature ordn;
+
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_latn_1 {
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+
+} ccmp;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+
+} ordn;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+
+} liga;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [A Aacute Acircumflex Adieresis Agrave Aring Atilde AE E Eacute Ecircumflex Edieresis Egrave I Iacute Icircumflex Idieresis Igrave N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE Q U Uacute Ucircumflex Udieresis Ugrave Y Yacute a aacute acircumflex adieresis agrave aring atilde ae e eacute ecircumflex edieresis egrave idotless iacute icircumflex idieresis igrave n ntilde o oacute ocircumflex odieresis ograve oslash otilde oe thorn u uacute ucircumflex udieresis ugrave y yacute ydieresis hha-ethiopic hhu-ethiopic hhi-ethiopic hhaa-ethiopic hhee-ethiopic hhe-ethiopic hho-ethiopic hhwa-ethiopic ma-ethiopic yen micro hha.base ma.base], # Base
+    , # Liga
+    , # Mark
+    ;
+} GDEF;

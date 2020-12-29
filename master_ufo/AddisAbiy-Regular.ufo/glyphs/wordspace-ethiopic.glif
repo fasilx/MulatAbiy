@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wordspace-ethiopic" format="2">
+  <advance width="233"/>
+  <unicode hex="1361"/>
+  <outline>
+    <contour>
+      <point x="173" y="509" type="line"/>
+      <point x="60" y="509" type="line"/>
+      <point x="60" y="395" type="line"/>
+      <point x="173" y="395" type="line"/>
+      <point x="173" y="509" type="line"/>
+      <point x="173" y="509" type="line"/>
+    </contour>
+    <contour>
+      <point x="173" y="189" type="line"/>
+      <point x="60" y="189" type="line"/>
+      <point x="60" y="74" type="line"/>
+      <point x="173" y="74" type="line"/>
+      <point x="173" y="189" type="line"/>
+      <point x="173" y="189" type="line"/>
+    </contour>
+  </outline>
+</glyph>

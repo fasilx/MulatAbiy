@@ -1,84 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kxo-ethiopic.etcp" format="2">
-  <advance width="638"/>
+  <advance width="656"/>
+  <anchor x="313" y="707" name="aGl"/>
+  <anchor x="318" y="-1" name="bottom"/>
+  <anchor x="259" y="541" name="eGl"/>
+  <anchor x="530" y="-3" name="haa"/>
+  <anchor x="301" y="816" name="hat"/>
+  <anchor x="155" y="814" name="hat.left"/>
+  <anchor x="302" y="750" name="hat.low"/>
+  <anchor x="194" y="467" name="he"/>
+  <anchor x="315" y="761" name="he.acute"/>
+  <anchor x="515" y="-20" name="hee"/>
+  <anchor x="535" y="44" name="hi"/>
+  <anchor x="123" y="3" name="ho"/>
+  <anchor x="544" y="471" name="hu"/>
+  <anchor x="537" y="56" name="hwa"/>
+  <anchor x="158" y="696" name="ka"/>
+  <anchor x="339" y="683" name="neck"/>
+  <anchor x="325" y="675" name="top"/>
   <outline>
-    <contour>
-      <point x="489" y="24" type="line"/>
-      <point x="489" y="10"/>
-      <point x="499" y="-2"/>
-      <point x="511" y="-2" type="curve" smooth="yes"/>
-      <point x="556" y="-2" type="line" smooth="yes"/>
-      <point x="568" y="-2"/>
-      <point x="578" y="10"/>
-      <point x="578" y="24" type="curve" smooth="yes"/>
-      <point x="578" y="582" type="line" smooth="yes"/>
-      <point x="578" y="619"/>
-      <point x="554" y="648"/>
-      <point x="522" y="648" type="curve" smooth="yes"/>
-      <point x="193" y="648" type="line" smooth="yes"/>
-      <point x="161" y="648"/>
-      <point x="137" y="619"/>
-      <point x="137" y="582" type="curve" smooth="yes"/>
-      <point x="137" y="24" type="line" smooth="yes"/>
-      <point x="137" y="10"/>
-      <point x="147" y="-2"/>
-      <point x="159" y="-2" type="curve" smooth="yes"/>
-      <point x="204" y="-2" type="line" smooth="yes"/>
-      <point x="216" y="-2"/>
-      <point x="226" y="10"/>
-      <point x="226" y="24" type="curve" smooth="yes"/>
-      <point x="226" y="569" type="line" smooth="yes"/>
-      <point x="226" y="583"/>
-      <point x="236" y="595"/>
-      <point x="248" y="595" type="curve" smooth="yes"/>
-      <point x="467" y="595" type="line" smooth="yes"/>
-      <point x="479" y="595"/>
-      <point x="489" y="583"/>
-      <point x="489" y="569" type="curve" smooth="yes"/>
-      <point x="489" y="24" type="line"/>
-      <point x="489" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="184" y="38" type="line"/>
-      <point x="139" y="38" type="line"/>
-      <point x="139" y="-166" type="line" smooth="yes"/>
-      <point x="139" y="-180"/>
-      <point x="149" y="-192"/>
-      <point x="161" y="-192" type="curve" smooth="yes"/>
-      <point x="162" y="-192" type="line" smooth="yes"/>
-      <point x="174" y="-192"/>
-      <point x="184" y="-180"/>
-      <point x="184" y="-166" type="curve" smooth="yes"/>
-      <point x="184" y="38" type="line"/>
-      <point x="184" y="38" type="line"/>
-    </contour>
-    <contour>
-      <point x="60" y="782" type="curve" smooth="yes"/>
-      <point x="60" y="772"/>
-      <point x="70" y="766"/>
-      <point x="82" y="766" type="curve" smooth="yes"/>
-      <point x="276" y="766" type="line" smooth="yes"/>
-      <point x="288" y="766"/>
-      <point x="298" y="773"/>
-      <point x="298" y="782" type="curve" smooth="yes"/>
-      <point x="298" y="792"/>
-      <point x="288" y="799"/>
-      <point x="276" y="799" type="curve" smooth="yes"/>
-      <point x="82" y="799" type="line" smooth="yes"/>
-      <point x="70" y="799"/>
-      <point x="60" y="792"/>
-    </contour>
-    <contour>
-      <point x="137" y="762" type="curve" smooth="yes"/>
-      <point x="137" y="668" type="line"/>
-      <point x="219" y="668" type="line"/>
-      <point x="219" y="762" type="line" smooth="yes"/>
-      <point x="219" y="776"/>
-      <point x="210" y="788"/>
-      <point x="197" y="788" type="curve" smooth="yes"/>
-      <point x="159" y="788" type="line" smooth="yes"/>
-      <point x="147" y="788"/>
-      <point x="137" y="776"/>
-    </contour>
+    <component base="ba.base.cap"/>
+    <component base="_smart.ho" xOffset="124" yOffset="21"/>
+    <component base="_smart.ka" xOffset="157" yOffset="34"/>
+    <component base="_smart.hat.left" xOffset="154" yOffset="178"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.left</key>
+      <integer>1</integer>
+      <key>_smart.ho</key>
+      <integer>1</integer>
+      <key>_smart.ka</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

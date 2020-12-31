@@ -1,57 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nya-ethiopic" format="2">
-  <advance width="481"/>
+  <advance width="451"/>
   <unicode hex="1298"/>
+  <anchor x="291" y="181" name="haa.acute"/>
+  <anchor x="76" y="674" name="hat"/>
+  <anchor x="-63" y="581" name="he"/>
+  <anchor x="313" y="-6" name="hee"/>
+  <anchor x="350" y="43" name="hi"/>
+  <anchor x="352" y="284" name="hu"/>
+  <anchor x="314" y="2" name="hwa"/>
   <outline>
-    <contour>
-      <point x="50" y="687" type="curve" smooth="yes"/>
-      <point x="50" y="679"/>
-      <point x="59" y="674"/>
-      <point x="70" y="674" type="curve" smooth="yes"/>
-      <point x="246" y="674" type="line" smooth="yes"/>
-      <point x="257" y="674"/>
-      <point x="266" y="680"/>
-      <point x="266" y="687" type="curve" smooth="yes"/>
-      <point x="266" y="694"/>
-      <point x="257" y="700"/>
-      <point x="246" y="700" type="curve" smooth="yes"/>
-      <point x="70" y="700" type="line" smooth="yes"/>
-      <point x="59" y="700"/>
-      <point x="50" y="694"/>
-    </contour>
-    <contour>
-      <point x="390" y="500" type="curve" smooth="yes"/>
-      <point x="221" y="500" type="line" smooth="yes"/>
-      <point x="210" y="500"/>
-      <point x="201" y="509"/>
-      <point x="201" y="520" type="curve" smooth="yes"/>
-      <point x="201" y="678" type="line" smooth="yes"/>
-      <point x="201" y="689"/>
-      <point x="192" y="698"/>
-      <point x="181" y="698" type="curve" smooth="yes"/>
-      <point x="141" y="699" type="line" smooth="yes"/>
-      <point x="129" y="699"/>
-      <point x="120" y="690"/>
-      <point x="120" y="678" type="curve" smooth="yes"/>
-      <point x="120" y="479" type="line" smooth="yes"/>
-      <point x="120" y="468"/>
-      <point x="129" y="459"/>
-      <point x="140" y="459" type="curve" smooth="yes"/>
-      <point x="330" y="459" type="line" smooth="yes"/>
-      <point x="341" y="459"/>
-      <point x="350" y="450"/>
-      <point x="350" y="439" type="curve" smooth="yes"/>
-      <point x="350" y="20" type="line" smooth="yes"/>
-      <point x="350" y="9"/>
-      <point x="359" y="0"/>
-      <point x="370" y="0" type="curve" smooth="yes"/>
-      <point x="411" y="0" type="line" smooth="yes"/>
-      <point x="422" y="0"/>
-      <point x="431" y="9"/>
-      <point x="431" y="20" type="curve" smooth="yes"/>
-      <point x="431" y="459" type="line" smooth="yes"/>
-      <point x="431" y="482"/>
-      <point x="413" y="500"/>
-    </contour>
+    <component base="na.base"/>
+    <component base="_smart.hat" xOffset="76" yOffset="8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

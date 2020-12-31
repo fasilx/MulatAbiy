@@ -146,28 +146,76 @@
     <string>_part.hoo.glif</string>
     <key>_part.hu</key>
     <string>_part.hu.glif</string>
+    <key>_smart.aGl</key>
+    <string>_smart.aG_l.glif</string>
+    <key>_smart.belt</key>
+    <string>_smart.belt.glif</string>
+    <key>_smart.cha</key>
+    <string>_smart.cha.glif</string>
+    <key>_smart.eGl</key>
+    <string>_smart.eG_l.glif</string>
+    <key>_smart.fa</key>
+    <string>_smart.fa.glif</string>
     <key>_smart.haa</key>
     <string>_smart.haa.glif</string>
+    <key>_smart.haa.acute</key>
+    <string>_smart.haa.acute.glif</string>
+    <key>_smart.hat</key>
+    <string>_smart.hat.glif</string>
+    <key>_smart.hat.left</key>
+    <string>_smart.hat.left.glif</string>
+    <key>_smart.hat.low</key>
+    <string>_smart.hat.low.glif</string>
+    <key>_smart.he</key>
+    <string>_smart.he.glif</string>
     <key>_smart.he.acute</key>
     <string>_smart.he.acute.glif</string>
+    <key>_smart.he.outer</key>
+    <string>_smart.he.outer.glif</string>
     <key>_smart.hee</key>
     <string>_smart.hee.glif</string>
     <key>_smart.hi</key>
     <string>_smart.hi.glif</string>
     <key>_smart.ho</key>
     <string>_smart.ho.glif</string>
+    <key>_smart.ho.ring</key>
+    <string>_smart.ho.ring.glif</string>
     <key>_smart.hu</key>
     <string>_smart.hu.glif</string>
     <key>_smart.hwa</key>
     <string>_smart.hwa.glif</string>
+    <key>_smart.ka</key>
+    <string>_smart.ka.glif</string>
     <key>_smart.neck</key>
     <string>_smart.neck.glif</string>
+    <key>_smart.raa</key>
+    <string>_smart.raa.glif</string>
+    <key>_smart.ri</key>
+    <string>_smart.ri.glif</string>
+    <key>_smart.ring</key>
+    <string>_smart.ring.glif</string>
+    <key>_smart.ya</key>
+    <string>_smart.ya.glif</string>
+    <key>_smart.ye</key>
+    <string>_smart.ye.glif</string>
+    <key>_smart.yi</key>
+    <string>_smart.yi.glif</string>
+    <key>_smart.yu</key>
+    <string>_smart.yu.glif</string>
+    <key>_smart.zha</key>
+    <string>_smart.zha.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>aGl.base.cap</key>
+    <string>aG_l.base.cap.glif</string>
     <key>aGlottal-ethiopic</key>
     <string>aG_lottal-ethiopic.glif</string>
     <key>aGlottal-ethiopic.etcp</key>
     <string>aG_lottal-ethiopic.etcp.glif</string>
+    <key>aPh.base</key>
+    <string>aP_h.base.glif</string>
+    <key>aPh.base.cap</key>
+    <string>aP_h.base.cap.glif</string>
     <key>aPharyngeal-ethiopic</key>
     <string>aP_haryngeal-ethiopic.glif</string>
     <key>aPharyngeal-ethiopic.etcp</key>
@@ -194,8 +242,6 @@
     <string>agrave.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
-    <key>approxequal</key>
-    <string>approxequal.glif</string>
     <key>aring</key>
     <string>aring.glif</string>
     <key>asciicircum</key>
@@ -210,10 +256,16 @@
     <string>atilde.glif</string>
     <key>b</key>
     <string>b.glif</string>
+    <key>b.base</key>
+    <string>b.base.glif</string>
     <key>ba-ethiopic</key>
     <string>ba-ethiopic.glif</string>
     <key>ba-ethiopic.etcp</key>
     <string>ba-ethiopic.etcp.glif</string>
+    <key>ba.base</key>
+    <string>ba.base.glif</string>
+    <key>ba.base.cap</key>
+    <string>ba.base.cap.glif</string>
     <key>baa-ethiopic</key>
     <string>baa-ethiopic.glif</string>
     <key>baa-ethiopic.etcp</key>
@@ -260,6 +312,8 @@
     <string>bwa-ethiopic.etcp.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>c.base</key>
+    <string>c.base.glif</string>
     <key>ca-ethiopic</key>
     <string>ca-ethiopic.glif</string>
     <key>ca-ethiopic.etcp</key>
@@ -350,6 +404,10 @@
     <string>da-ethiopic.glif</string>
     <key>da-ethiopic.etcp</key>
     <string>da-ethiopic.etcp.glif</string>
+    <key>da.base</key>
+    <string>da.base.glif</string>
+    <key>da.base.cap</key>
+    <string>da.base.cap.glif</string>
     <key>daa-ethiopic</key>
     <string>daa-ethiopic.glif</string>
     <key>daa-ethiopic.etcp</key>
@@ -456,8 +514,6 @@
     <string>ellipsis.glif</string>
     <key>emdash</key>
     <string>emdash.glif</string>
-    <key>emptyset</key>
-    <string>emptyset.glif</string>
     <key>endash</key>
     <string>endash.glif</string>
     <key>equal</key>
@@ -482,6 +538,10 @@
     <string>fa-ethiopic.glif</string>
     <key>fa-ethiopic.etcp</key>
     <string>fa-ethiopic.etcp.glif</string>
+    <key>fa.base</key>
+    <string>fa.base.glif</string>
+    <key>fa.base.cap</key>
+    <string>fa.base.cap.glif</string>
     <key>faa-ethiopic</key>
     <string>faa-ethiopic.glif</string>
     <key>faa-ethiopic.etcp</key>
@@ -542,6 +602,10 @@
     <string>ga-ethiopic.glif</string>
     <key>ga-ethiopic.etcp</key>
     <string>ga-ethiopic.etcp.glif</string>
+    <key>ga.base</key>
+    <string>ga.base.glif</string>
+    <key>ga.base.cap</key>
+    <string>ga.base.cap.glif</string>
     <key>gaa-ethiopic</key>
     <string>gaa-ethiopic.glif</string>
     <key>gaa-ethiopic.etcp</key>
@@ -604,8 +668,6 @@
     <string>grave.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
-    <key>greaterequal</key>
-    <string>greaterequal.glif</string>
     <key>gu-ethiopic</key>
     <string>gu-ethiopic.glif</string>
     <key>gu-ethiopic.etcp</key>
@@ -618,16 +680,36 @@
     <string>guilsinglleft.glif</string>
     <key>guilsinglright</key>
     <string>guilsinglright.glif</string>
+    <key>gwa-ethiopic</key>
+    <string>gwa-ethiopic.glif</string>
+    <key>gwa-ethiopic.etcp</key>
+    <string>gwa-ethiopic.etcp.glif</string>
     <key>gwaa-ethiopic</key>
     <string>gwaa-ethiopic.glif</string>
     <key>gwaa-ethiopic.etcp</key>
     <string>gwaa-ethiopic.etcp.glif</string>
+    <key>gwe-ethiopic</key>
+    <string>gwe-ethiopic.glif</string>
+    <key>gwe-ethiopic.etcp</key>
+    <string>gwe-ethiopic.etcp.glif</string>
+    <key>gwee-ethiopic</key>
+    <string>gwee-ethiopic.glif</string>
+    <key>gwee-ethiopic.etcp</key>
+    <string>gwee-ethiopic.etcp.glif</string>
+    <key>gwi-ethiopic</key>
+    <string>gwi-ethiopic.glif</string>
+    <key>gwi-ethiopic.etcp</key>
+    <string>gwi-ethiopic.etcp.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>ha-ethiopic</key>
     <string>ha-ethiopic.glif</string>
     <key>ha-ethiopic.etcp</key>
     <string>ha-ethiopic.etcp.glif</string>
+    <key>ha.base</key>
+    <string>ha.base.glif</string>
+    <key>ha.base.cap</key>
+    <string>ha.base.cap.glif</string>
     <key>haa-ethiopic</key>
     <string>haa-ethiopic.glif</string>
     <key>haa-ethiopic.etcp</key>
@@ -646,6 +728,8 @@
     <string>hha-ethiopic.etcp.glif</string>
     <key>hha.base</key>
     <string>hha.base.glif</string>
+    <key>hha.base.cap</key>
+    <string>hha.base.cap.glif</string>
     <key>hhaa-ethiopic</key>
     <string>hhaa-ethiopic.glif</string>
     <key>hhaa-ethiopic.etcp</key>
@@ -714,10 +798,6 @@
     <string>idotless.glif</string>
     <key>igrave</key>
     <string>igrave.glif</string>
-    <key>infinity</key>
-    <string>infinity.glif</string>
-    <key>integral</key>
-    <string>integral.glif</string>
     <key>j</key>
     <string>j.glif</string>
     <key>ja-ethiopic</key>
@@ -778,14 +858,34 @@
     <string>ko-ethiopic.glif</string>
     <key>ko-ethiopic.etcp</key>
     <string>ko-ethiopic.etcp.glif</string>
+    <key>koa-ethiopic</key>
+    <string>koa-ethiopic.glif</string>
+    <key>koa-ethiopic.etcp</key>
+    <string>koa-ethiopic.etcp.glif</string>
     <key>ku-ethiopic</key>
     <string>ku-ethiopic.glif</string>
     <key>ku-ethiopic.etcp</key>
     <string>ku-ethiopic.etcp.glif</string>
+    <key>kwa-ethiopic</key>
+    <string>kwa-ethiopic.glif</string>
+    <key>kwa-ethiopic.etcp</key>
+    <string>kwa-ethiopic.etcp.glif</string>
     <key>kwaa-ethiopic</key>
     <string>kwaa-ethiopic.glif</string>
     <key>kwaa-ethiopic.etcp</key>
     <string>kwaa-ethiopic.etcp.glif</string>
+    <key>kwe-ethiopic</key>
+    <string>kwe-ethiopic.glif</string>
+    <key>kwe-ethiopic.etcp</key>
+    <string>kwe-ethiopic.etcp.glif</string>
+    <key>kwee-ethiopic</key>
+    <string>kwee-ethiopic.glif</string>
+    <key>kwee-ethiopic.etcp</key>
+    <string>kwee-ethiopic.etcp.glif</string>
+    <key>kwi-ethiopic</key>
+    <string>kwi-ethiopic.glif</string>
+    <key>kwi-ethiopic.etcp</key>
+    <string>kwi-ethiopic.etcp.glif</string>
     <key>kxa-ethiopic</key>
     <string>kxa-ethiopic.glif</string>
     <key>kxa-ethiopic.etcp</key>
@@ -814,16 +914,36 @@
     <string>kxu-ethiopic.glif</string>
     <key>kxu-ethiopic.etcp</key>
     <string>kxu-ethiopic.etcp.glif</string>
+    <key>kxwa-ethiopic</key>
+    <string>kxwa-ethiopic.glif</string>
+    <key>kxwa-ethiopic.etcp</key>
+    <string>kxwa-ethiopic.etcp.glif</string>
     <key>kxwaa-ethiopic</key>
     <string>kxwaa-ethiopic.glif</string>
     <key>kxwaa-ethiopic.etcp</key>
     <string>kxwaa-ethiopic.etcp.glif</string>
+    <key>kxwe-ethiopic</key>
+    <string>kxwe-ethiopic.glif</string>
+    <key>kxwe-ethiopic.etcp</key>
+    <string>kxwe-ethiopic.etcp.glif</string>
+    <key>kxwee-ethiopic</key>
+    <string>kxwee-ethiopic.glif</string>
+    <key>kxwee-ethiopic.etcp</key>
+    <string>kxwee-ethiopic.etcp.glif</string>
+    <key>kxwi-ethiopic</key>
+    <string>kxwi-ethiopic.glif</string>
+    <key>kxwi-ethiopic.etcp</key>
+    <string>kxwi-ethiopic.etcp.glif</string>
     <key>l</key>
     <string>l.glif</string>
     <key>la-ethiopic</key>
     <string>la-ethiopic.glif</string>
     <key>la-ethiopic.etcp</key>
     <string>la-ethiopic.etcp.glif</string>
+    <key>la.base</key>
+    <string>la.base.glif</string>
+    <key>la.base.cap</key>
+    <string>la.base.cap.glif</string>
     <key>laa-ethiopic</key>
     <string>laa-ethiopic.glif</string>
     <key>laa-ethiopic.etcp</key>
@@ -838,8 +958,6 @@
     <string>lee-ethiopic.etcp.glif</string>
     <key>less</key>
     <string>less.glif</string>
-    <key>lessequal</key>
-    <string>lessequal.glif</string>
     <key>li-ethiopic</key>
     <string>li-ethiopic.glif</string>
     <key>li-ethiopic.etcp</key>
@@ -866,6 +984,8 @@
     <string>ma-ethiopic.etcp.glif</string>
     <key>ma.base</key>
     <string>ma.base.glif</string>
+    <key>ma.base.cap</key>
+    <string>ma.base.cap.glif</string>
     <key>maa-ethiopic</key>
     <string>maa-ethiopic.glif</string>
     <key>maa-ethiopic.etcp</key>
@@ -912,6 +1032,10 @@
     <string>na-ethiopic.glif</string>
     <key>na-ethiopic.etcp</key>
     <string>na-ethiopic.etcp.glif</string>
+    <key>na.base</key>
+    <string>na.base.glif</string>
+    <key>na.base.cap</key>
+    <string>na.base.cap.glif</string>
     <key>naa-ethiopic</key>
     <string>naa-ethiopic.glif</string>
     <key>naa-ethiopic.etcp</key>
@@ -1030,6 +1154,10 @@
     <string>pa-ethiopic.glif</string>
     <key>pa-ethiopic.etcp</key>
     <string>pa-ethiopic.etcp.glif</string>
+    <key>pa.base</key>
+    <string>pa.base.glif</string>
+    <key>pa.base.cap</key>
+    <string>pa.base.cap.glif</string>
     <key>paa-ethiopic</key>
     <string>paa-ethiopic.glif</string>
     <key>paa-ethiopic.etcp</key>
@@ -1038,12 +1166,12 @@
     <string>paragraph.glif</string>
     <key>paragraphseparator-ethiopic</key>
     <string>paragraphseparator-ethiopic.glif</string>
+    <key>paragraphseparator-ethiopic.001</key>
+    <string>paragraphseparator-ethiopic.001.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
     <key>parenright</key>
     <string>parenright.glif</string>
-    <key>partialdiff</key>
-    <string>partialdiff.glif</string>
     <key>pe-ethiopic</key>
     <string>pe-ethiopic.glif</string>
     <key>pe-ethiopic.etcp</key>
@@ -1060,8 +1188,6 @@
     <string>period-ethiopic.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
-    <key>perthousand</key>
-    <string>perthousand.glif</string>
     <key>pha-ethiopic</key>
     <string>pha-ethiopic.glif</string>
     <key>pha-ethiopic.etcp</key>
@@ -1108,8 +1234,6 @@
     <string>po-ethiopic.etcp.glif</string>
     <key>prefacecolon-ethiopic</key>
     <string>prefacecolon-ethiopic.glif</string>
-    <key>product</key>
-    <string>product.glif</string>
     <key>pu-ethiopic</key>
     <string>pu-ethiopic.glif</string>
     <key>pu-ethiopic.etcp</key>
@@ -1136,6 +1260,54 @@
     <string>qee-ethiopic.glif</string>
     <key>qee-ethiopic.etcp</key>
     <string>qee-ethiopic.etcp.glif</string>
+    <key>qha-ethiopic</key>
+    <string>qha-ethiopic.glif</string>
+    <key>qha-ethiopic.etcp</key>
+    <string>qha-ethiopic.etcp.glif</string>
+    <key>qhaa-ethiopic</key>
+    <string>qhaa-ethiopic.glif</string>
+    <key>qhaa-ethiopic.etcp</key>
+    <string>qhaa-ethiopic.etcp.glif</string>
+    <key>qhe-ethiopic</key>
+    <string>qhe-ethiopic.glif</string>
+    <key>qhe-ethiopic.etcp</key>
+    <string>qhe-ethiopic.etcp.glif</string>
+    <key>qhee-ethiopic</key>
+    <string>qhee-ethiopic.glif</string>
+    <key>qhee-ethiopic.etcp</key>
+    <string>qhee-ethiopic.etcp.glif</string>
+    <key>qhi-ethiopic</key>
+    <string>qhi-ethiopic.glif</string>
+    <key>qhi-ethiopic.etcp</key>
+    <string>qhi-ethiopic.etcp.glif</string>
+    <key>qho-ethiopic</key>
+    <string>qho-ethiopic.glif</string>
+    <key>qho-ethiopic.etcp</key>
+    <string>qho-ethiopic.etcp.glif</string>
+    <key>qhu-ethiopic</key>
+    <string>qhu-ethiopic.glif</string>
+    <key>qhu-ethiopic.etcp</key>
+    <string>qhu-ethiopic.etcp.glif</string>
+    <key>qhwa-ethiopic</key>
+    <string>qhwa-ethiopic.glif</string>
+    <key>qhwa-ethiopic.etcp</key>
+    <string>qhwa-ethiopic.etcp.glif</string>
+    <key>qhwaa-ethiopic</key>
+    <string>qhwaa-ethiopic.glif</string>
+    <key>qhwaa-ethiopic.etcp</key>
+    <string>qhwaa-ethiopic.etcp.glif</string>
+    <key>qhwe-ethiopic</key>
+    <string>qhwe-ethiopic.glif</string>
+    <key>qhwe-ethiopic.etcp</key>
+    <string>qhwe-ethiopic.etcp.glif</string>
+    <key>qhwee-ethiopic</key>
+    <string>qhwee-ethiopic.glif</string>
+    <key>qhwee-ethiopic.etcp</key>
+    <string>qhwee-ethiopic.etcp.glif</string>
+    <key>qhwi-ethiopic</key>
+    <string>qhwi-ethiopic.glif</string>
+    <key>qhwi-ethiopic.etcp</key>
+    <string>qhwi-ethiopic.etcp.glif</string>
     <key>qi-ethiopic</key>
     <string>qi-ethiopic.glif</string>
     <key>qi-ethiopic.etcp</key>
@@ -1174,26 +1346,48 @@
     <string>quotesinglbase.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
+    <key>qwa-ethiopic</key>
+    <string>qwa-ethiopic.glif</string>
+    <key>qwa-ethiopic.etcp</key>
+    <string>qwa-ethiopic.etcp.glif</string>
     <key>qwaa-ethiopic</key>
     <string>qwaa-ethiopic.glif</string>
     <key>qwaa-ethiopic.etcp</key>
     <string>qwaa-ethiopic.etcp.glif</string>
+    <key>qwe-ethiopic</key>
+    <string>qwe-ethiopic.glif</string>
+    <key>qwe-ethiopic.etcp</key>
+    <string>qwe-ethiopic.etcp.glif</string>
+    <key>qwee-ethiopic</key>
+    <string>qwee-ethiopic.glif</string>
+    <key>qwee-ethiopic.etcp</key>
+    <string>qwee-ethiopic.etcp.glif</string>
+    <key>qwi-ethiopic</key>
+    <string>qwi-ethiopic.glif</string>
+    <key>qwi-ethiopic.etcp</key>
+    <string>qwi-ethiopic.etcp.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>ra-ethiopic</key>
     <string>ra-ethiopic.glif</string>
     <key>ra-ethiopic.etcp</key>
     <string>ra-ethiopic.etcp.glif</string>
+    <key>ra.base</key>
+    <string>ra.base.glif</string>
+    <key>ra.base.cap</key>
+    <string>ra.base.cap.glif</string>
     <key>raa-ethiopic</key>
     <string>raa-ethiopic.glif</string>
     <key>raa-ethiopic.etcp</key>
     <string>raa-ethiopic.etcp.glif</string>
-    <key>radical</key>
-    <string>radical.glif</string>
     <key>re-ethiopic</key>
     <string>re-ethiopic.glif</string>
     <key>re-ethiopic.etcp</key>
     <string>re-ethiopic.etcp.glif</string>
+    <key>re.base</key>
+    <string>re.base.glif</string>
+    <key>re.base.cap</key>
+    <string>re.base.cap.glif</string>
     <key>ree-ethiopic</key>
     <string>ree-ethiopic.glif</string>
     <key>ree-ethiopic.etcp</key>
@@ -1230,6 +1424,10 @@
     <string>sa-ethiopic.glif</string>
     <key>sa-ethiopic.etcp</key>
     <string>sa-ethiopic.etcp.glif</string>
+    <key>sa.base</key>
+    <string>sa.base.glif</string>
+    <key>sa.base.cap</key>
+    <string>sa.base.cap.glif</string>
     <key>saa-ethiopic</key>
     <string>saa-ethiopic.glif</string>
     <key>saa-ethiopic.etcp</key>
@@ -1312,8 +1510,6 @@
     <string>su-ethiopic.glif</string>
     <key>su-ethiopic.etcp</key>
     <string>su-ethiopic.etcp.glif</string>
-    <key>summation</key>
-    <string>summation.glif</string>
     <key>swa-ethiopic</key>
     <string>swa-ethiopic.glif</string>
     <key>swa-ethiopic.etcp</key>
@@ -1430,6 +1626,10 @@
     <string>tsa-ethiopic.glif</string>
     <key>tsa-ethiopic.etcp</key>
     <string>tsa-ethiopic.etcp.glif</string>
+    <key>tsa.base</key>
+    <string>tsa.base.glif</string>
+    <key>tsa.base.cap</key>
+    <string>tsa.base.cap.glif</string>
     <key>tsaa-ethiopic</key>
     <string>tsaa-ethiopic.glif</string>
     <key>tsaa-ethiopic.etcp</key>
@@ -1584,6 +1784,10 @@
     <string>wa-ethiopic.glif</string>
     <key>wa-ethiopic.etcp</key>
     <string>wa-ethiopic.etcp.glif</string>
+    <key>wa.base</key>
+    <string>wa.base.glif</string>
+    <key>wa.base.cap</key>
+    <string>wa.base.cap.glif</string>
     <key>waGlottal-ethiopic</key>
     <string>waG_lottal-ethiopic.glif</string>
     <key>waGlottal-ethiopic.etcp</key>
@@ -1660,12 +1864,28 @@
     <string>xwaa-ethiopic.glif</string>
     <key>xwaa-ethiopic.etcp</key>
     <string>xwaa-ethiopic.etcp.glif</string>
+    <key>xwe-ethiopic</key>
+    <string>xwe-ethiopic.glif</string>
+    <key>xwe-ethiopic.etcp</key>
+    <string>xwe-ethiopic.etcp.glif</string>
+    <key>xwee-ethiopic</key>
+    <string>xwee-ethiopic.glif</string>
+    <key>xwee-ethiopic.etcp</key>
+    <string>xwee-ethiopic.etcp.glif</string>
+    <key>xwi-ethiopic</key>
+    <string>xwi-ethiopic.glif</string>
+    <key>xwi-ethiopic.etcp</key>
+    <string>xwi-ethiopic.etcp.glif</string>
     <key>y</key>
     <string>y.glif</string>
     <key>ya-ethiopic</key>
     <string>ya-ethiopic.glif</string>
     <key>ya-ethiopic.etcp</key>
     <string>ya-ethiopic.etcp.glif</string>
+    <key>ya.base</key>
+    <string>ya.base.glif</string>
+    <key>ya.base.cap</key>
+    <string>ya.base.cap.glif</string>
     <key>yaa-ethiopic</key>
     <string>yaa-ethiopic.glif</string>
     <key>yaa-ethiopic.etcp</key>
@@ -1706,6 +1926,10 @@
     <string>za-ethiopic.glif</string>
     <key>za-ethiopic.etcp</key>
     <string>za-ethiopic.etcp.glif</string>
+    <key>za.base</key>
+    <string>za.base.glif</string>
+    <key>za.base.cap</key>
+    <string>za.base.cap.glif</string>
     <key>zaa-ethiopic</key>
     <string>zaa-ethiopic.glif</string>
     <key>zaa-ethiopic.etcp</key>

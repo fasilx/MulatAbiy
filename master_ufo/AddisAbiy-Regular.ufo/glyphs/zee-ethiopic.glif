@@ -1,87 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zee-ethiopic" format="2">
-  <advance width="550"/>
+  <advance width="551"/>
   <unicode hex="12DC"/>
+  <anchor x="424" y="-5" name="haa"/>
+  <anchor x="-10" y="463" name="he"/>
+  <anchor x="417" y="-28" name="hee"/>
+  <anchor x="439" y="42" name="hi"/>
+  <anchor x="79" y="2" name="ho"/>
+  <anchor x="450" y="284" name="hu"/>
+  <anchor x="408" y="0" name="hwa"/>
+  <anchor x="245" y="501" name="zha"/>
   <outline>
-    <contour>
-      <point x="451" y="480" type="line"/>
-      <point x="451" y="491"/>
-      <point x="442" y="500"/>
-      <point x="431" y="500" type="curve" smooth="yes"/>
-      <point x="390" y="500" type="line" smooth="yes"/>
-      <point x="379" y="500"/>
-      <point x="370" y="491"/>
-      <point x="370" y="480" type="curve" smooth="yes"/>
-      <point x="370" y="281" type="line" smooth="yes"/>
-      <point x="370" y="270"/>
-      <point x="361" y="261"/>
-      <point x="350" y="261" type="curve" smooth="yes"/>
-      <point x="151" y="261" type="line" smooth="yes"/>
-      <point x="140" y="261"/>
-      <point x="131" y="270"/>
-      <point x="131" y="281" type="curve" smooth="yes"/>
-      <point x="131" y="480" type="line" smooth="yes"/>
-      <point x="131" y="491"/>
-      <point x="122" y="500"/>
-      <point x="111" y="500" type="curve" smooth="yes"/>
-      <point x="70" y="500" type="line" smooth="yes"/>
-      <point x="59" y="500"/>
-      <point x="50" y="491"/>
-      <point x="50" y="480" type="curve" smooth="yes"/>
-      <point x="50" y="20" type="line" smooth="yes"/>
-      <point x="50" y="9"/>
-      <point x="59" y="0"/>
-      <point x="70" y="0" type="curve" smooth="yes"/>
-      <point x="111" y="0" type="line" smooth="yes"/>
-      <point x="122" y="0"/>
-      <point x="131" y="9"/>
-      <point x="131" y="20" type="curve" smooth="yes"/>
-      <point x="131" y="199" type="line" smooth="yes"/>
-      <point x="131" y="210"/>
-      <point x="140" y="219"/>
-      <point x="151" y="219" type="curve" smooth="yes"/>
-      <point x="350" y="219" type="line" smooth="yes"/>
-      <point x="361" y="219"/>
-      <point x="370" y="210"/>
-      <point x="370" y="199" type="curve" smooth="yes"/>
-      <point x="370" y="20" type="line" smooth="yes"/>
-      <point x="370" y="9"/>
-      <point x="379" y="0"/>
-      <point x="390" y="0" type="curve" smooth="yes"/>
-      <point x="431" y="0" type="line" smooth="yes"/>
-      <point x="442" y="0"/>
-      <point x="451" y="9"/>
-      <point x="451" y="20" type="curve" smooth="yes"/>
-      <point x="451" y="480" type="line"/>
-      <point x="451" y="480" type="line"/>
-    </contour>
-    <contour>
-      <point x="421" y="-150" type="curve" smooth="yes"/>
-      <point x="466" y="-150"/>
-      <point x="500" y="-113"/>
-      <point x="500" y="-67" type="curve" smooth="yes"/>
-      <point x="500" y="-21"/>
-      <point x="466" y="16"/>
-      <point x="421" y="16" type="curve" smooth="yes"/>
-      <point x="376" y="16"/>
-      <point x="342" y="-21"/>
-      <point x="342" y="-67" type="curve" smooth="yes"/>
-      <point x="342" y="-113"/>
-      <point x="376" y="-150"/>
-    </contour>
-    <contour>
-      <point x="421" y="-118" type="curve" smooth="yes"/>
-      <point x="393" y="-118"/>
-      <point x="372" y="-96"/>
-      <point x="372" y="-67" type="curve" smooth="yes"/>
-      <point x="372" y="-38"/>
-      <point x="393" y="-16"/>
-      <point x="421" y="-16" type="curve" smooth="yes"/>
-      <point x="449" y="-16"/>
-      <point x="470" y="-38"/>
-      <point x="470" y="-67" type="curve" smooth="yes"/>
-      <point x="470" y="-96"/>
-      <point x="449" y="-118"/>
-    </contour>
+    <component base="za.base"/>
+    <component base="_smart.hee" xOffset="417" yOffset="-44"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

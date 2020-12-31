@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ten-ethiopic" format="2">
-  <advance width="358"/>
+  <advance width="340"/>
   <unicode hex="1372"/>
   <outline>
-    <component base="one" xScale="0.64755" yScale="0.64755" xOffset="100" yOffset="129"/>
-    <component base="_number.bar" xScale="0.6809" xOffset="9"/>
+    <component base="_number.bar" xScale="0.6809"/>
+    <component base="one" xScale="0.6475" yScale="0.6475" xOffset="110" yOffset="129"/>
   </outline>
 </glyph>

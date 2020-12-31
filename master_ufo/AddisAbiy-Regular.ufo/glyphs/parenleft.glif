@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenleft" format="2">
-  <advance width="293"/>
+  <advance width="301"/>
   <unicode hex="0028"/>
   <outline>
     <contour>
@@ -16,8 +16,6 @@
       <point x="53" y="318"/>
       <point x="64" y="267"/>
       <point x="65" y="265" type="curve"/>
-      <point x="161" y="-139" type="line"/>
-      <point x="161" y="-139" type="line"/>
     </contour>
   </outline>
 </glyph>

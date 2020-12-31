@@ -6,12 +6,9 @@ uniE01B
 </note>
   <outline>
     <contour>
-      <point x="93" y="714" type="line"/>
       <point x="60" y="571" type="line"/>
       <point x="128" y="571" type="line"/>
       <point x="203" y="714" type="line"/>
-      <point x="93" y="714" type="line"/>
-      <point x="93" y="714" type="line"/>
       <point x="93" y="714" type="line"/>
     </contour>
   </outline>

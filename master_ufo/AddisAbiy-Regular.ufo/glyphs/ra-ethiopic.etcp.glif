@@ -1,36 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ra-ethiopic.etcp" format="2">
-  <advance width="561"/>
+  <advance width="506"/>
+  <anchor x="314" y="-1" name="haa"/>
+  <anchor x="425" y="54" name="haa.acute"/>
+  <anchor x="129" y="673" name="hat"/>
+  <anchor x="438" y="298" name="hee"/>
   <outline>
-    <contour>
-      <point x="501" y="97" type="line"/>
-      <point x="412" y="99" type="line"/>
-      <point x="412" y="77" type="line" smooth="yes"/>
-      <point x="412" y="63"/>
-      <point x="402" y="51"/>
-      <point x="390" y="51" type="curve" smooth="yes"/>
-      <point x="171" y="51" type="line" smooth="yes"/>
-      <point x="159" y="51"/>
-      <point x="149" y="63"/>
-      <point x="149" y="77" type="curve" smooth="yes"/>
-      <point x="149" y="622" type="line" smooth="yes"/>
-      <point x="149" y="636"/>
-      <point x="139" y="648"/>
-      <point x="127" y="648" type="curve" smooth="yes"/>
-      <point x="82" y="648" type="line" smooth="yes"/>
-      <point x="70" y="648"/>
-      <point x="60" y="636"/>
-      <point x="60" y="622" type="curve" smooth="yes"/>
-      <point x="60" y="64" type="line" smooth="yes"/>
-      <point x="60" y="27"/>
-      <point x="84" y="-2"/>
-      <point x="116" y="-2" type="curve" smooth="yes"/>
-      <point x="445" y="-2" type="line" smooth="yes"/>
-      <point x="477" y="-2"/>
-      <point x="501" y="27"/>
-      <point x="501" y="64" type="curve" smooth="yes"/>
-      <point x="501" y="97" type="line"/>
-      <point x="501" y="97" type="line"/>
-    </contour>
+    <component base="ra.base.cap"/>
   </outline>
 </glyph>

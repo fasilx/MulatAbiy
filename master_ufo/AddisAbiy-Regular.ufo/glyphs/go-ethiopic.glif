@@ -1,51 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="go-ethiopic" format="2">
-  <advance width="501"/>
+  <advance width="521"/>
   <unicode hex="130E"/>
+  <anchor x="369" y="132" name="haa.acute"/>
+  <anchor x="212" y="651" name="hat"/>
+  <anchor x="243" y="289" name="he"/>
+  <anchor x="380" y="-16" name="hee"/>
+  <anchor x="420" y="54" name="hi"/>
+  <anchor x="204" y="403" name="ho.ring"/>
+  <anchor x="422" y="287" name="hu"/>
+  <anchor x="393" y="8" name="hwa"/>
+  <anchor x="217" y="510" name="neck"/>
+  <anchor x="137" y="575" name="ring"/>
   <outline>
-    <contour>
-      <point x="50" y="434" type="line"/>
-      <point x="131" y="432" type="line"/>
-      <point x="131" y="449" type="line" smooth="yes"/>
-      <point x="131" y="460"/>
-      <point x="140" y="469"/>
-      <point x="151" y="469" type="curve" smooth="yes"/>
-      <point x="350" y="469" type="line" smooth="yes"/>
-      <point x="361" y="469"/>
-      <point x="370" y="460"/>
-      <point x="370" y="449" type="curve" smooth="yes"/>
-      <point x="370" y="30" type="line" smooth="yes"/>
-      <point x="370" y="19"/>
-      <point x="379" y="10"/>
-      <point x="390" y="10" type="curve" smooth="yes"/>
-      <point x="431" y="10" type="line" smooth="yes"/>
-      <point x="442" y="10"/>
-      <point x="451" y="19"/>
-      <point x="451" y="30" type="curve" smooth="yes"/>
-      <point x="451" y="459" type="line" smooth="yes"/>
-      <point x="451" y="488"/>
-      <point x="429" y="510"/>
-      <point x="400" y="510" type="curve" smooth="yes"/>
-      <point x="101" y="510" type="line" smooth="yes"/>
-      <point x="72" y="510"/>
-      <point x="50" y="488"/>
-      <point x="50" y="459" type="curve" smooth="yes"/>
-      <point x="50" y="434" type="line"/>
-      <point x="50" y="434" type="line"/>
-    </contour>
-    <contour>
-      <point x="255" y="686" type="line"/>
-      <point x="214" y="686" type="line"/>
-      <point x="214" y="529" type="line" smooth="yes"/>
-      <point x="214" y="518"/>
-      <point x="223" y="509"/>
-      <point x="234" y="509" type="curve" smooth="yes"/>
-      <point x="235" y="509" type="line" smooth="yes"/>
-      <point x="246" y="509"/>
-      <point x="255" y="518"/>
-      <point x="255" y="529" type="curve" smooth="yes"/>
-      <point x="255" y="686" type="line"/>
-      <point x="255" y="686" type="line"/>
-    </contour>
+    <component base="ga.base"/>
+    <component base="_smart.neck" xOffset="213" yOffset="9"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

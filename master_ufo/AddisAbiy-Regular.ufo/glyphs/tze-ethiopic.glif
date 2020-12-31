@@ -1,65 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tze-ethiopic" format="2">
-  <advance width="501"/>
+  <advance width="551"/>
   <unicode hex="1345"/>
+  <anchor x="230" y="284" name="belt"/>
+  <anchor x="280" y="-2" name="haa"/>
+  <anchor x="266" y="-3" name="haa.acute"/>
+  <anchor x="270" y="-14" name="hee"/>
+  <anchor x="289" y="-139" name="hi"/>
+  <anchor x="412" y="-1" name="ho"/>
+  <anchor x="444" y="284" name="hu"/>
+  <anchor x="308" y="1" name="hwa"/>
+  <anchor x="247" y="502" name="neck"/>
   <outline>
-    <contour>
-      <point x="371" y="341" type="line"/>
-      <point x="125" y="341" type="line"/>
-      <point x="125" y="312" type="line"/>
-      <point x="371" y="312" type="line"/>
-      <point x="371" y="341" type="line"/>
-      <point x="371" y="341" type="line"/>
-    </contour>
-    <contour>
-      <point x="410" y="500" type="curve" smooth="yes"/>
-      <point x="91" y="500" type="line" smooth="yes"/>
-      <point x="68" y="500"/>
-      <point x="50" y="482"/>
-      <point x="50" y="459" type="curve" smooth="yes"/>
-      <point x="50" y="41" type="line" smooth="yes"/>
-      <point x="50" y="18"/>
-      <point x="68" y="0"/>
-      <point x="91" y="0" type="curve" smooth="yes"/>
-      <point x="410" y="0" type="line" smooth="yes"/>
-      <point x="433" y="0"/>
-      <point x="451" y="18"/>
-      <point x="451" y="41" type="curve" smooth="yes"/>
-      <point x="451" y="459" type="line" smooth="yes"/>
-      <point x="451" y="482"/>
-      <point x="433" y="500"/>
-    </contour>
-    <contour>
-      <point x="350" y="41" type="curve" smooth="yes"/>
-      <point x="151" y="41" type="line" smooth="yes"/>
-      <point x="140" y="41"/>
-      <point x="131" y="50"/>
-      <point x="131" y="61" type="curve" smooth="yes"/>
-      <point x="131" y="439" type="line" smooth="yes"/>
-      <point x="131" y="450"/>
-      <point x="140" y="459"/>
-      <point x="151" y="459" type="curve" smooth="yes"/>
-      <point x="350" y="459" type="line" smooth="yes"/>
-      <point x="361" y="459"/>
-      <point x="370" y="450"/>
-      <point x="370" y="439" type="curve" smooth="yes"/>
-      <point x="370" y="61" type="line" smooth="yes"/>
-      <point x="370" y="50"/>
-      <point x="361" y="41"/>
-    </contour>
-    <contour>
-      <point x="261" y="510" type="line"/>
-      <point x="261" y="667" type="line" smooth="yes"/>
-      <point x="261" y="678"/>
-      <point x="252" y="687"/>
-      <point x="241" y="687" type="curve" smooth="yes"/>
-      <point x="240" y="687" type="line" smooth="yes"/>
-      <point x="229" y="687"/>
-      <point x="220" y="678"/>
-      <point x="220" y="667" type="curve" smooth="yes"/>
-      <point x="220" y="510" type="line"/>
-      <point x="261" y="510" type="line"/>
-      <point x="261" y="510" type="line"/>
-    </contour>
+    <component base="aPh.base"/>
+    <component base="_smart.neck" xOffset="243" yOffset="1"/>
+    <component base="_smart.belt" xOffset="258"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.belt</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

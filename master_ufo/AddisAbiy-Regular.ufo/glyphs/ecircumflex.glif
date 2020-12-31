@@ -5,6 +5,6 @@
   <anchor x="252" y="501" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflex" xOffset="253" yOffset="-5"/>
+    <component base="circumflex" xOffset="79" yOffset="-5"/>
   </outline>
 </glyph>

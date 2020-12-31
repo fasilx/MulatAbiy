@@ -6,12 +6,9 @@ fraction
 </note>
   <outline>
     <contour>
-      <point x="494" y="725" type="line"/>
-      <point x="558" y="725" type="line"/>
-      <point x="124" y="-27" type="line"/>
       <point x="60" y="-27" type="line"/>
-      <point x="494" y="725" type="line"/>
-      <point x="494" y="725" type="line"/>
+      <point x="117" y="-27" type="line"/>
+      <point x="551" y="725" type="line"/>
       <point x="494" y="725" type="line"/>
     </contour>
   </outline>

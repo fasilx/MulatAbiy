@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="_smart.cha" format="2">
-  <anchor x="-3" y="53" name="_cha"/>
-  <outline>
-    <component base="period" xOffset="-270"/>
-    <component base="period" xOffset="29"/>
-  </outline>
-</glyph>

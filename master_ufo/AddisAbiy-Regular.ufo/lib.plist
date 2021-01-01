@@ -9,210 +9,107 @@
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
       <string>/ba.base</string>
-      <string>/ba.base</string>
-      <string>/_smart.hat.low</string>
       <string>/_smart.hat</string>
       <string></string>
-      <string></string>
-      <string></string>
       <string>/ba.base</string>
-      <string>/_smart.hat/sa-ethiopic</string>
       <string>/_smart.he.acute/se-ethiopic</string>
-      <string>/ba.base/shee-ethiopic</string>
       <string>/ba.base/si-ethiopic</string>
-      <string>/shee-ethiopic</string>
       <string>/ba.base/she-ethiopic</string>
-      <string>/wa.base/wa-ethiopic</string>
       <string>/wu-ethiopic</string>
-      <string>/ma.base</string>
       <string>/ma.base/mi-ethiopic</string>
-      <string>/wa-ethiopic</string>
       <string>/aGl.base.cap/aGlottal-ethiopic.etcp</string>
-      <string>/_smart.eGl/eGlottal-ethiopic.etcp</string>
       <string>/_smart.ka/ku-ethiopic.etcp</string>
-      <string>/ba.base.cap/kxwaa-ethiopic.etcp</string>
-      <string>/waGlottal-ethiopic</string>
-      <string>/ba.base/aGlottal-ethiopic</string>
+      <string>/_smart.hat.left.aGl/waGlottal-ethiopic</string>
       <string>/_smart.aGl/aGlottal-ethiopic</string>
-      <string>/ba.base/aGlottal-ethiopic</string>
       <string>/_smart.eGl/eGlottal-ethiopic</string>
-      <string>/ba.base/eGlottal-ethiopic</string>
       <string>/_smart.ka/ka-ethiopic</string>
-      <string>/ba.base/ka-ethiopic</string>
       <string>/_smart.hat.left/kxwi-ethiopic</string>
-      <string>/ba.base/kxwi-ethiopic</string>
       <string></string>
-      <string>/za.base</string>
       <string></string>
-      <string>/da.base</string>
       <string>/ga.base</string>
-      <string></string>
       <string>/na.base</string>
-      <string>/re.base/ro-ethiopic</string>
       <string>/nwa-ethiopic</string>
-      <string>/re.base</string>
       <string>/b.base d</string>
       <string>/b.base d</string>
-      <string>/b.base d</string>
-      <string>g</string>
       <string>a</string>
-      <string>c</string>
-      <string></string>
       <string></string>
       <string>/pa.base</string>
-      <string>/aPh.base/aPharyngeal-ethiopic</string>
       <string></string>
-      <string>/xo-ethiopic/xoa-ethiopic</string>
       <string>/re.base/xoa-ethiopic</string>
-      <string>/no-ethiopic</string>
       <string>/nyo-ethiopic</string>
-      <string>/nywa-ethiopic</string>
       <string>/tsa.base/pha-ethiopic</string>
-      <string>/fa-ethiopic</string>
       <string>/ra.base/ra-ethiopic</string>
-      <string>/szwa-ethiopic</string>
       <string>/la.base/la-ethiopic</string>
-      <string>/_smart.eGl/eGlottal-ethiopic</string>
       <string>/_smart.aGl/oGlottal-ethiopic</string>
-      <string>/la.base/lu-ethiopic</string>
       <string>/_smart.ring/hee-ethiopic</string>
-      <string>/_smart.hee/hee-ethiopic</string>
       <string>/la.base/lu-ethiopic</string>
-      <string>/la.base/li-ethiopic</string>
       <string>/la.base/le-ethiopic</string>
-      <string>/_smart.ring/le-ethiopic</string>
       <string>/la.base/le-ethiopic</string>
-      <string>/_smart.ring/le-ethiopic</string>
       <string>/la.base/le-ethiopic</string>
-      <string>/lwa-ethiopic</string>
       <string>/_smart.hee/hee-ethiopic</string>
-      <string>/ha.base/hee-ethiopic</string>
       <string>/_smart.hee/hee-ethiopic</string>
-      <string>/la.base/lee-ethiopic</string>
       <string>/hha.base/hhee-ethiopic</string>
-      <string>/ma.base/mee-ethiopic</string>
       <string>/sa.base/szee-ethiopic</string>
-      <string>/ba.base/see-ethiopic</string>
       <string>/_smart.haa/haa-ethiopic</string>
-      <string>/_smart.hwa/mwa-ethiopic</string>
       <string>/_smart.hee/hee-ethiopic</string>
       <string>/wa.base/qa-ethiopic</string>
-      <string>/wa.base/qa-ethiopic</string>
       <string>/wa.base/qho-ethiopic</string>
-      <string>/wa.base/qho-ethiopic</string>
-      <string>/wa.base/qe-ethiopic</string>
       <string>/wa.base/qu-ethiopic</string>
-      <string>/wa.base/qi-ethiopic</string>
       <string>/wa.base/qhe-ethiopic</string>
-      <string>/qhe-ethiopic</string>
       <string>/_smart.he.acute/qe-ethiopic</string>
       <string>/pa.base/ta-ethiopic</string>
-      <string>/pa.base/ta-ethiopic</string>
-      <string>/pa.base/ti-ethiopic</string>
       <string>/pa.base/taa-ethiopic</string>
       <string>/_smart.he.acute/te-ethiopic</string>
-      <string>/_smart.he.acute/te-ethiopic</string>
-      <string>/_smart.he.acute/te-ethiopic</string>
       <string>/_smart.he.acute</string>
-      <string>/hha.base/hhe-ethiopic</string>
       <string>/ba.base/se-ethiopic</string>
-      <string>/se-ethiopic</string>
       <string>/wa.base/qe-ethiopic</string>
-      <string>/pa.base/te-ethiopic</string>
       <string>/pa.base/to-ethiopic</string>
-      <string>/pa.base/ce-ethiopic</string>
       <string>/_smart.hee/tee-ethiopic</string>
-      <string>/pa.base/co-ethiopic</string>
       <string>/pa.base/ci-ethiopic</string>
       <string>/na.base/xa-ethiopic</string>
-      <string>/na.base/xa-ethiopic</string>
-      <string>/na.base/xi-ethiopic</string>
       <string>/na.base/xaa-ethiopic</string>
-      <string>/_smart.haa.acute/xaa-ethiopic</string>
       <string>/na.base/nya-ethiopic</string>
       <string>/re.base/nyaa-ethiopic</string>
-      <string>/re.base/nyaa-ethiopic</string>
-      <string>/na.base/xwa-ethiopic</string>
       <string>/_smart.hwa/xwa-ethiopic/xwi-ethiopic/xwaa-ethiopic/xwee-ethiopic/xwe-ethiopic</string>
-      <string>/re.base/xoa-ethiopic</string>
       <string>/re.base/xo-ethiopic</string>
-      <string>/re.base/xoa-ethiopic</string>
       <string>/aPh.base/uPharyngeal-ethiopic</string>
-      <string>/aPh.base/aPharyngeal-ethiopic</string>
       <string>/za.base/zu-ethiopic</string>
-      <string>/za.base/zi-ethiopic</string>
       <string>/aPh.base/aPharyngeal-ethiopic</string>
-      <string>/aPh.base/aPharyngeal-ethiopic/iPharyngeal-ethiopic</string>
       <string>/aPh.base/aPharyngeal-ethiopic/eePharyngeal-ethiopic</string>
-      <string>/aPh.base/aPharyngeal-ethiopic/oPharyngeal-ethiopic</string>
       <string>/za.base/ze-ethiopic</string>
-      <string>/za.base/zha-ethiopic</string>
       <string>/_smart.zha/zha-ethiopic</string>
-      <string>/pa.base/pwa-ethiopic</string>
       <string>/po-ethiopic</string>
-      <string>/ra.base/ru-ethiopic</string>
       <string>/ra.base/ri-ethiopic</string>
       <string>/ra.base/ree-ethiopic</string>
-      <string>/ra.base/ree-ethiopic</string>
-      <string>/ra.base/ree-ethiopic</string>
       <string>/ra.base/ri-ethiopic</string>
-      <string>/_smart.raa/raa-ethiopic</string>
       <string>/ra.base/rwa-ethiopic</string>
-      <string>/ba.base/so-ethiopic</string>
       <string>/ra.base/rwa-ethiopic</string>
-      <string>/re.base/ro-ethiopic</string>
       <string>/ba.base/see-ethiopic</string>
       <string>/ya.base/yu-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/ya.base/yaa-ethiopic</string>
       <string>/ya.base/yee-ethiopic</string>
-      <string>/ya.base/ye-ethiopic</string>
       <string>/_smart.yu/yu-ethiopic</string>
-      <string>/_smart.yi/yi-ethiopic</string>
       <string>/_smart.yu/yu-ethiopic</string>
-      <string>/_smart.ya/yaa-ethiopic</string>
       <string>/ya.base/yee-ethiopic</string>
-      <string>/_smart.ye/ye-ethiopic</string>
       <string>/ya.base/yoa-ethiopic</string>
-      <string>/da.base/da-ethiopic</string>
       <string>/da.base/dwa-ethiopic</string>
-      <string>/da.base/du-ethiopic</string>
       <string>/da.base/ddi-ethiopic</string>
-      <string>/ddo-ethiopic</string>
       <string>/ga.base/gu-ethiopic</string>
-      <string>/ga.base/gaa-ethiopic</string>
       <string>/ga.base/ge-ethiopic</string>
-      <string>/ga.base/ggo-ethiopic</string>
       <string>/ga.base/gge-ethiopic</string>
-      <string>/hha.base/thu-ethiopic</string>
       <string>/hha.base/the-ethiopic</string>
-      <string>/the-ethiopic</string>
       <string>/hha.base/che-ethiopic</string>
-      <string>./cho-ethiopic</string>
       <string>/_smart.cha/cho-ethiopic</string>
       <string>/hha.base/cho-ethiopic</string>
       <string>/hha.base/cho-ethiopic</string>
-      <string>/_smart.cha/cho-ethiopic</string>
-      <string>/hha.base/cho-ethiopic</string>
-      <string>/tsa.base/pha-ethiopic</string>
       <string>/tsa.base/tsi-ethiopic</string>
-      <string>/aPh.base/tzoa-ethiopic</string>
       <string>/_smart.belt/tza-ethiopic</string>
-      <string>/aPh.base/tza-ethiopic</string>
       <string>/fa.base/fu-ethiopic</string>
-      <string>/fu-ethiopic</string>
-      <string>/fa.base/fi-ethiopic</string>
-      <string>/fa.base/faa-ethiopic</string>
-      <string>/fa.base/fee-ethiopic</string>
-      <string>/fa.base/fe-ethiopic</string>
       <string>/fa.base/fi-ethiopic</string>
       <string>/fa.base/fee-ethiopic</string>
+      <string>/fa.base/fi-ethiopic</string>
       <string>/fa.base/fe-ethiopic</string>
-      <string>/fo-ethiopic</string>
       <string>/rya-ethiopic</string>
-      <string>/hha.base/che-ethiopic</string>
       <string>/ga.base/ggu-ethiopic</string>
-      <string>/da.base/jaa-ethiopic</string>
       <string>U/ha-ethiopic.etcp</string>
       <string></string>
       <string></string>
@@ -223,353 +120,244 @@
       <string></string>
       <string></string>
       <string></string>
-      <string></string>
-      <string></string>
-      <string></string>
-      <string></string>
-      <string></string>
-      <string></string>
-      <string></string>
-      <string></string>
-      <string></string>
-      <string>W</string>
       <string>/la.base.cap/lu-ethiopic.etcp</string>
-      <string>/lee-ethiopic.etcp</string>
       <string>/le-ethiopic.etcp</string>
-      <string>/la.base.cap/li-ethiopic.etcp</string>
       <string>/la.base.cap/la-ethiopic.etcp</string>
-      <string>/hha.base.cap/hha-ethiopic.etcp</string>
       <string>/hhee-ethiopic.etcp</string>
-      <string>/hha.base.cap/hhwa-ethiopic.etcp</string>
       <string>/la.base.cap/lo-ethiopic.etcp</string>
-      <string>/ree-ethiopic.etcp</string>
       <string>/re.base.cap/ro-ethiopic.etcp</string>
-      <string>/ba.base.cap/sa-ethiopic.etcp</string>
       <string>/ba.base.cap/su-ethiopic.etcp</string>
-      <string>/ba.base.cap/si-ethiopic.etcp</string>
       <string>/aPh.base</string>
-      <string>/fa.base</string>
       <string>/c.base/wa.base.cap</string>
-      <string>/wa.base.cap</string>
       <string>/ya.base.cap</string>
-      <string>/fa.base.cap</string>
       <string>/shu-ethiopic.etcp</string>
-      <string>/ba.base.cap/shi-ethiopic.etcp</string>
       <string>/see-ethiopic.etcp</string>
-      <string>/shee-ethiopic.etcp</string>
       <string>/bu-ethiopic.etcp/vu-ethiopic.etcp/vi-ethiopic.etcp/ve-ethiopic.etcp</string>
-      <string>/vu-ethiopic.etcp</string>
       <string>/bi-ethiopic.etcp</string>
-      <string>/bee-ethiopic.etcp</string>
       <string>/vaa-ethiopic.etcp</string>
-      <string>/va-ethiopic.etcp</string>
       <string>/bwa-ethiopic.etcp</string>
-      <string>/vee-ethiopic.etcp</string>
       <string>/vwa-ethiopic.etcp</string>
-      <string>/vo-ethiopic.etcp</string>
       <string>/co-ethiopic.etcp</string>
-      <string>/pa.base.cap/to-ethiopic.etcp</string>
       <string>/tee-ethiopic.etcp</string>
-      <string>/pa.base.cap/twa-ethiopic.etcp</string>
       <string>/cu-ethiopic.etcp</string>
-      <string>/cee-ethiopic.etcp</string>
       <string>/pa.base.cap/cwa-ethiopic.etcp</string>
-      <string>/nywa-ethiopic.etcp</string>
       <string>/fa-ethiopic.etcp/fu-ethiopic.etcp/fi-ethiopic.etcp/faa-ethiopic.etcp/fe-ethiopic.etcp</string>
-      <string>/ma.base.cap/mu-ethiopic.etcp</string>
       <string>/ha.base.cap/hu-ethiopic.etcp</string>
-      <string>/hha.base.cap/hhu-ethiopic.etcp</string>
       <string>/sa.base.cap/szu-ethiopic.etcp</string>
-      <string>/pa.base.cap/tu-ethiopic.etcp</string>
       <string>/ku-ethiopic.etcp</string>
-      <string>/wa.base.cap/wu-ethiopic.etcp</string>
       <string>/za.base.cap/zu-ethiopic.etcp</string>
-      <string>/tsa.base.cap/phu-ethiopic.etcp</string>
       <string>/aPh.base.cap/tzu-ethiopic.etcp</string>
-      <string>/hha.base.cap/hhaa-ethiopic.etcp</string>
       <string>/wa.base.cap/qaa-ethiopic.etcp</string>
-      <string>/ba.base.cap/baa-ethiopic.etcp</string>
       <string>/za.base.cap/zaa-ethiopic.etcp</string>
-      <string>/da.base.cap/daa-ethiopic.etcp</string>
       <string>/tsa.base.cap/tsaa-ethiopic.etcp</string>
-      <string>/aPh.base.cap/tzaa-ethiopic.etcp</string>
       <string>/fa.base.cap/faa-ethiopic.etcp</string>
-      <string>/sa.base.cap/szi-ethiopic.etcp</string>
       <string>/hha.base.cap/hhi-ethiopic.etcp</string>
-      <string>/sa.base.cap/szi-ethiopic.etcp</string>
       <string>/wa.base.cap/qi-ethiopic.etcp</string>
-      <string>/pa.base.cap/ti-ethiopic.etcp</string>
       <string>/za.base.cap/zi-ethiopic.etcp</string>
-      <string>/da.base.cap/di-ethiopic.etcp</string>
       <string>/ga.base.cap/ggi-ethiopic.etcp</string>
-      <string>/aPh.base.cap/tzi-ethiopic.etcp</string>
       <string>/pa.base.cap/pi-ethiopic.etcp</string>
-      <string>/szee-ethiopic.etcp</string>
       <string>/_smart.ho/hho-ethiopic.etcp</string>
-      <string>/hha.base.cap/hho-ethiopic.etcp</string>
       <string>/sa.base.cap/szo-ethiopic.etcp</string>
-      <string>/ba.base.cap/sho-ethiopic.etcp</string>
-      <string>/qo-ethiopic.etcp</string>
-      <string>/da.base.cap/do-ethiopic.etcp</string>
+      <string>/wa.base.cap/qo-ethiopic.etcp</string>
       <string>/tsa.base.cap/pho-ethiopic.etcp</string>
-      <string>/la.base.cap/lwa-ethiopic.etcp</string>
       <string>/sa.base.cap/szwa-ethiopic.etcp</string>
-      <string>/za.base.cap/zwa-ethiopic.etcp</string>
       <string>/tsa.base.cap/phwa-ethiopic.etcp</string>
-      <string>/ha.base.cap/he-ethiopic.etcp</string>
       <string>/ha.base.cap/ho-ethiopic.etcp</string>
-      <string>/ma.base.cap/me-ethiopic.etcp</string>
       <string>/mwa-ethiopic.etcp</string>
       <string>/sa.base.cap/szo-ethiopic.etcp</string>
-      <string>/sa.base.cap/szo-ethiopic.etcp</string>
-      <string>/ra.base.cap/ra-ethiopic.etcp</string>
       <string>/ra.base.cap/ri-ethiopic.etcp</string>
-      <string>/raa-ethiopic.etcp</string>
       <string>/ra.base.cap/rwa-ethiopic.etcp</string>
-      <string>/rwa-ethiopic.etcp</string>
       <string>/_smart.neck/qa-ethiopic.etcp</string>
-      <string>/wa.base.cap/qa-ethiopic.etcp</string>
       <string>/wa.base.cap/qaa-ethiopic.etcp</string>
-      <string>/wa.base.cap/qe-ethiopic.etcp/qwe-ethiopic.etcp</string>
       <string>/qe-ethiopic.etcp/qwe-ethiopic.etcp</string>
-      <string>/qwe-ethiopic.etcp</string>
       <string>/qwaa-ethiopic.etcp</string>
-      <string>/qwee-ethiopic.etcp</string>
       <string>/wa.base.cap/qho-ethiopic.etcp</string>
-      <string>/pa.base.cap/te-ethiopic.etcp/ce-ethiopic.etcp</string>
       <string>/taa-ethiopic.etcp</string>
-      <string>/pa.base.cap/caa-ethiopic.etcp</string>
       <string>/ca-ethiopic.etcp/cu-ethiopic.etcp/ci-ethiopic.etcp/caa-ethiopic.etcp/cee-ethiopic.etcp/ce-ethiopic.etcp/co-ethiopic.etcp/cwa-ethiopic.etcp</string>
-      <string>/na.base.cap/xa-ethiopic.etcp/xu-ethiopic.etcp/xi-ethiopic.etcp/xaa-ethiopic.etcp/xee-ethiopic.etcp/xe-ethiopic.etcp</string>
       <string>/na.base.cap/xaa-ethiopic.etcp</string>
-      <string>/ba.base.cap/iGlottal-ethiopic.etcp</string>
       <string>/aGl.base.cap</string>
-      <string>/aGl.base.cap/waGlottal-ethiopic.etcp</string>
       <string>/aGl.base.cap/aGlottal-ethiopic.etcp</string>
-      <string>/aGl.base.cap/eGlottal-ethiopic.etcp</string>
       <string>/aGl.base.cap/waGlottal-ethiopic.etcp</string>
-      <string>/ba.base.cap/ka-ethiopic.etcp</string>
       <string>/aPh.base.cap/ePharyngeal-ethiopic.etcp</string>
-      <string>/aPh.base.cap/iPharyngeal-ethiopic.etcp</string>
       <string>/iPharyngeal-ethiopic.etcp</string>
-      <string>/aPh.base.cap/eePharyngeal-ethiopic.etcp</string>
       <string>/aPh.base.cap/oPharyngeal-ethiopic.etcp</string>
       <string>/za.base.cap/ze-ethiopic.etcp</string>
-      <string>/za.base.cap/ze-ethiopic.etcp</string>
-      <string>/za.base.cap/zha-ethiopic.etcp</string>
       <string>/_smart.yu/yu-ethiopic.etcp</string>
-      <string>/ya.base.cap/yu-ethiopic.etcp</string>
       <string>/ya.base.cap/yi-ethiopic.etcp</string>
-      <string>/yaa-ethiopic.etcp</string>
       <string>/ya.base.cap/yee-ethiopic.etcp</string>
-      <string>/ya.base.cap/ye-ethiopic.etcp</string>
       <string>/ya.base.cap/yo-ethiopic.etcp</string>
-      <string>/yo-ethiopic.etcp</string>
-      <string>/da.base.cap/de-ethiopic.etcp</string>
       <string>/da.base.cap/de-ethiopic.etcp</string>
       <string>/da.base.cap/du-ethiopic.etcp</string>
-      <string>/da.base.cap/ja-ethiopic.etcp</string>
       <string>/ga.base.cap/ge-ethiopic.etcp</string>
-      <string>/ga.base.cap/gge-ethiopic.etcp</string>
       <string>/ga.base.cap/ggo-ethiopic.etcp</string>
-      <string>/ga.base.cap/ggwaa-ethiopic.etcp</string>
       <string>/ggaa-ethiopic.etcp</string>
-      <string>/za.base.cap/zo-ethiopic.etcp</string>
       <string>/fa.base.cap/fu-ethiopic.etcp</string>
-      <string>/fa.base.cap/fi-ethiopic.etcp</string>
       <string>/_smart.ri/ri-ethiopic</string>
-      <string>/ra.base/ri-ethiopic</string>
       <string>/rwa-ethiopic</string>
-      <string>/fa.base/fi-ethiopic</string>
       <string>/fa.base.cap/fi-ethiopic.etcp</string>
-      <string>/_smart.fa/fa.base.cap/fa-ethiopic.etcp</string>
       <string>/fa.base.cap/fa-ethiopic.etcp</string>
-      <string>/fa.base.cap/fu-ethiopic.etcp</string>
       <string>/re.base.cap/fo-ethiopic.etcp</string>
-      <string>/re.base.cap/fwa-ethiopic.etcp</string>
       <string>/_smart.fa/fwa-ethiopic.etcp</string>
-      <string>/re.base.cap/fwa-ethiopic.etcp</string>
       <string>/_smart.fa/fwa-ethiopic.etcp</string>
-      <string>/re.base.cap/fo-ethiopic.etcp</string>
       <string>/_smart.fa/fo-ethiopic.etcp</string>
       <string>/_smart.fa/fo-ethiopic.etcp</string>
-      <string>/_smart.fa/fo-ethiopic.etcp</string>
-      <string>/re.base.cap/fe-ethiopic.etcp</string>
       <string>/ga.base.cap/nye-ethiopic.etcp</string>
       <string>/na.base.cap/nyee-ethiopic.etcp</string>
-      <string>/na.base.cap/nyee-ethiopic.etcp</string>
-      <string>/re.base.cap/nyo-ethiopic.etcp</string>
       <string>/wa-ethiopic.etcp</string>
-      <string>/seventy-ethiopic</string>
       <string>/la.base</string>
-      <string>/_smart.yi</string>
       <string>ð</string>
-      <string>ß</string>
       <string>/_smart.haa/laa-ethiopic</string>
-      <string>/la.base/laa-ethiopic</string>
       <string>/ba.base/saa-ethiopic</string>
-      <string>/da.base/daa-ethiopic</string>
       <string>/ddi-ethiopic</string>
-      <string>/_smart.haa/ji-ethiopic</string>
       <string>/da.base/ji-ethiopic</string>
-      <string>/tsa.base/phaa-ethiopic</string>
       <string>/ba.base.cap/kxwee-ethiopic.etcp</string>
-      <string>/da.base.cap/daa-ethiopic.etcp</string>
       <string>/da.base.cap/jwa-ethiopic.etcp</string>
-      <string>/_smart.ho/hho-ethiopic</string>
       <string>/hha.base/hho-ethiopic</string>
-      <string>/ma.base/mo-ethiopic</string>
       <string>/ma.base/me-ethiopic</string>
-      <string>/_smart.he/me-ethiopic</string>
       <string>/szi-ethiopic</string>
-      <string>/sze-ethiopic</string>
       <string>/ba.base/so-ethiopic</string>
-      <string>/saa-ethiopic</string>
       <string>/_smart.ho/so-ethiopic</string>
       <string>/ba.base/she-ethiopic</string>
-      <string>/ba.base/she-ethiopic</string>
-      <string>/pa.base/ce-ethiopic</string>
       <string>/_smart.hwa/kxwa-ethiopic</string>
-      <string>/za.base/zho-ethiopic</string>
       <string>/da.base/do-ethiopic</string>
-      <string>/da.base/ddwa-ethiopic</string>
-      <string>/_smart.haa.acute/gaa-ethiopic</string>
       <string>/_smart.haa.acute/gaa-ethiopic</string>
       <string>/ga.base/gaa-ethiopic</string>
-      <string>/ga.base/ge-ethiopic</string>
       <string>/ga.base/gwi-ethiopic</string>
-      <string>/_smart.hwa/koa-ethiopic</string>
       <string>/_smart.hwa/xwaa-ethiopic</string>
-      <string>/ga.base/ne-ethiopic</string>
       <string>/na.base/ni-ethiopic</string>
-      <string>/tsa.base/pho-ethiopic</string>
       <string>/tsa.base/phwa-ethiopic</string>
-      <string>/pa.base/pe-ethiopic</string>
       <string>/pa.base.cap/ce-ethiopic.etcp</string>
-      <string>/na.base.cap/xa-ethiopic.etcp</string>
       <string>/na.base.cap/xee-ethiopic.etcp</string>
-      <string>/_smart.zha/zhu-ethiopic</string>
       <string>/za.base.cap/zhaa-ethiopic.etcp</string>
-      <string>/tenthousand-ethiopic</string>
       <string>/eighty-ethiopic</string>
-      <string>/ninety-ethiopic</string>
       <string>/two-ethiopic</string>
-      <string>/fraction.001</string>
       <string>/wa.base</string>
-      <string>/hha.base</string>
       <string>/sa.base</string>
-      <string>/ma.base.cap</string>
       <string>/la.base.cap</string>
-      <string>/tsa.base.cap</string>
       <string>/za.base.cap</string>
-      <string>/bullet</string>
       <string>/uni0387</string>
-      <string>/comma-ethiopic</string>
       <string>/colon-ethiopic</string>
-      <string>/period-ethiopic</string>
       <string>/semicolon-ethiopic</string>
-      <string>/wordspace-ethiopic</string>
       <string>.</string>
-      <string>:</string>
       <string>;</string>
-      <string>/ellipsis</string>
       <string>/_smart.zha/zha-ethiopic</string>
-      <string>/za.base/zha-ethiopic</string>
       <string>H/za.base.cap/zhaa-ethiopic.etcp</string>
-      <string>/za.base.cap/zo-ethiopic.etcp</string>
       <string>/za.base.cap/zu-ethiopic.etcp</string>
-      <string>/za.base.cap/zhi-ethiopic.etcp</string>
       <string>/za.base.cap/ze-ethiopic.etcp</string>
-      <string>/_smart.yi/yi-ethiopic.etcp</string>
       <string>/ya.base/yu-ethiopic</string>
-      <string>/ga.base/gi-ethiopic</string>
       <string>/_smart.ye/ye-ethiopic</string>
-      <string>/ba.base.cap</string>
       <string>/ha.base.cap</string>
-      <string>/re.base.cap</string>
       <string>/re.base.cap/fo-ethiopic.etcp</string>
-      <string>/re.base.cap/fwa-ethiopic.etcp</string>
       <string>/tsa.base.cap/phee-ethiopic.etcp</string>
       <string>/hha.base.cap/che-ethiopic.etcp</string>
-      <string>/hha.base.cap/che-ethiopic.etcp</string>
-      <string>/hha.base.cap/che-ethiopic.etcp</string>
       <string>/hha.base.cap/the-ethiopic.etcp</string>
-      <string>/che-ethiopic.etcp</string>
       <string>/the-ethiopic.etcp</string>
-      <string>/tha-ethiopic.etcp</string>
       <string>/ha.base.cap/he-ethiopic.etcp</string>
-      <string>/ha.base.cap/hu-ethiopic.etcp</string>
       <string>/ha.base.cap/ho-ethiopic.etcp</string>
-      <string>/_smart.neck/hha-ethiopic.etcp</string>
       <string>/la.base.cap/laa-ethiopic.etcp</string>
-      <string>/aGl.base.cap/oGlottal-ethiopic.etcp</string>
       <string>/aGl.base.cap/aaGlottal-ethiopic.etcp</string>
-      <string>e</string>
       <string>Ç</string>
-      <string>Ë</string>
       <string>/hha.base.cap</string>
-      <string>/hha.base.cap/thaa-ethiopic.etcp</string>
       <string>/hha-ethiopic.etcp</string>
-      <string>/sza-ethiopic.etcp</string>
       <string>/sa.base.cap</string>
-      <string>/ba.base.cap/sa-ethiopic.etcp</string>
       <string>/su-ethiopic.etcp</string>
-      <string>/_smart.neck/sa-ethiopic.etcp</string>
-      <string>/ba.base.cap/sa-ethiopic.etcp</string>
       <string>/ba.base.cap/sa-ethiopic.etcp</string>
       <string>/sa-ethiopic.etcp</string>
       <string>/ba.base.cap/ba-ethiopic.etcp</string>
-      <string>/ba.base.cap/ba-ethiopic.etcp</string>
-      <string>/te-ethiopic.etcp</string>
       <string>/_smart.he.acute/te-ethiopic</string>
-      <string>/re.base.cap/xo-ethiopic.etcp</string>
       <string>/aPharyngeal-ethiopic/aaPharyngeal-ethiopic</string>
-      <string>/aPharyngeal-ethiopic</string>
       <string>/ha.base</string>
-      <string>/la.base/lo-ethiopic</string>
       <string>/c.base O/aPh.base.cap/aaPharyngeal-ethiopic.etcp</string>
-      <string>O/aPh.base.cap/aaPharyngeal-ethiopic.etcp</string>
       <string>/aPh.base.cap/aaPharyngeal-ethiopic.etcp</string>
-      <string>/aPh.base/aPharyngeal-ethiopic/aaPharyngeal-ethiopic</string>
       <string>/uPharyngeal-ethiopic</string>
-      <string>/iPharyngeal-ethiopic</string>
       <string>/aaPharyngeal-ethiopic</string>
-      <string>/eePharyngeal-ethiopic</string>
       <string>/ePharyngeal-ethiopic</string>
-      <string>/oPharyngeal-ethiopic</string>
       <string>/ga.base/ge-ethiopic</string>
-      <string>?</string>
       <string>¿</string>
-      <string>!</string>
       <string>¡</string>
-      <string>/paragraphseparator-ethiopic/paragraphseparator-ethiopic.001</string>
       <string>/paragraphseparator-ethiopic</string>
-      <string>/prefacecolon-ethiopic</string>
       <string>/question-ethiopic</string>
-      <string>/sectionmark-ethiopic</string>
       <string>~</string>
-      <string>®</string>
       <string>/_smart.he/be-ethiopic</string>
-      <string>/_smart.he.outer/be-ethiopic</string>
-      <string>/ba.base/be-ethiopic</string>
       <string>/ba.base/be-ethiopic</string>
       <string>/ve-ethiopic</string>
-      <string>/ba.base/be-ethiopic/ve-ethiopic</string>
       <string>/_smart.eGl/eGlottal-ethiopic</string>
-      <string>/_smart.he.acute/te-ethiopic</string>
       <string>/_smart.hat/cee-ethiopic</string>
       <string>/pa.base/te-ethiopic</string>
-      <string>/pa.base/te-ethiopic</string>
-      <string>/pa.base/ce-ethiopic</string>
-      <string>/pa.base/ce-ethiopic</string>
       <string>/pa.base/ce-ethiopic</string>
       <string>/ya.base/yee-ethiopic</string>
-      <string>/_smart.ye/ye-ethiopic</string>
+      <string>/_smart.yu/yu-ethiopic</string>
       <string>/_smart.yu/yu-ethiopic</string>
       <string>/_smart.yi/yi-ethiopic</string>
-      <string>/_smart.yu/yu-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/_smart.yi/yi-ethiopic</string>
+      <string>/ba.base/bee-ethiopic</string>
+      <string>/bee-ethiopic</string>
+      <string>/hha.base/hhee-ethiopic</string>
+      <string>/_smart.hee/hhee-ethiopic</string>
+      <string>/pa.base/tee-ethiopic</string>
+      <string>/za.base/zee-ethiopic</string>
+      <string>/ga.base/gee-ethiopic</string>
+      <string>/tsa.base/tsee-ethiopic</string>
+      <string>/_smart.hee/hee-ethiopic</string>
+      <string>/hha.base.cap/tha-ethiopic.etcp</string>
+      <string>/_smart.hee/shee-ethiopic</string>
+      <string>/la.base/lee-ethiopic</string>
+      <string>/na.base/xee-ethiopic</string>
+      <string>/wa.base/wee-ethiopic</string>
+      <string>/ga.base/gee-ethiopic</string>
+      <string>/_smart.ho.ring/ho-ethiopic</string>
+      <string>/ha.base/ho-ethiopic</string>
+      <string>/la.base/lo-ethiopic</string>
+      <string>/pa.base/to-ethiopic</string>
+      <string>/ga.base/ge-ethiopic</string>
+      <string>/ree-ethiopic</string>
+      <string>/la.base.cap/lwa-ethiopic.etcp</string>
+      <string>/pa.base.cap/to-ethiopic.etcp</string>
+      <string>/re.base.cap/xo-ethiopic.etcp</string>
+      <string>/ga.base.cap/ge-ethiopic.etcp</string>
+      <string>/za.base/ze-ethiopic</string>
+      <string>/_smart.hee/hee-ethiopic</string>
+      <string>/_smart.ho.ring/ro-ethiopic</string>
+      <string>/qhaa-ethiopic</string>
+      <string>/_smart.haa.acute/xaa-ethiopic</string>
+      <string>/_smart.aGl/waGlottal-ethiopic</string>
+      <string>/_smart.ka/koa-ethiopic</string>
+      <string>/ba.base/kxwi-ethiopic</string>
+      <string>/three-ethiopic</string>
+      <string>/five-ethiopic</string>
+      <string>/seven-ethiopic</string>
+      <string>/nine-ethiopic</string>
+      <string>/twenty-ethiopic</string>
+      <string>/forty-ethiopic</string>
+      <string>/sixty-ethiopic</string>
+      <string>/fa.base.cap/fi-ethiopic.etcp</string>
+      <string>/fa.base/fi-ethiopic</string>
+      <string>/fa.base/faa-ethiopic</string>
+      <string>/_smart.ri/fi-ethiopic</string>
+      <string>/fa-ethiopic.etcp</string>
+      <string>/fa.base.cap/fu-ethiopic.etcp</string>
+      <string>/fa.base.cap/fu-ethiopic.etcp</string>
+      <string>3</string>
+      <string>5</string>
+      <string>7</string>
+      <string>9</string>
+      <string>/period-ethiopic</string>
+      <string>Æ</string>
+      <string>/ra.base</string>
+      <string>/fa.base/fee-ethiopic</string>
+      <string>/ya.base/yaa-ethiopic</string>
+      <string>/ga.base.cap/ne-ethiopic.etcp</string>
+      <string>/fa.base/fee-ethiopic</string>
+      <string>/fee-ethiopic.etcp</string>
+      <string>/ra.base.cap/ri-ethiopic.etcp</string>
+      <string>/ra.base.cap/ri-ethiopic.etcp</string>
+      <string>/ra.base.cap/raa-ethiopic.etcp</string>
+      <string>/rwa-ethiopic.etcp</string>
+      <string>/ma.base</string>
+      <string>/ya.base</string>
+      <string>/_smart.belt/tza-ethiopic</string>
+      <string>/aPh.base.cap/tzoa-ethiopic.etcp</string>
+      <string>/aPh.base.cap/tzu-ethiopic.etcp</string>
+      <string>/ya.base.cap/yi-ethiopic.etcp</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
@@ -1598,6 +1386,7 @@
       <string>_smart.hat.low</string>
       <string>_smart.he.acute</string>
       <string>_smart.he.outer</string>
+      <string>_smart.hat.left.aGl</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -3011,6 +2800,7 @@
       <string>_smart.haa</string>
       <string>_smart.hat</string>
       <string>_smart.hat.left</string>
+      <string>_smart.hat.left.aGl</string>
       <string>_smart.hat.low</string>
       <string>_smart.he</string>
       <string>_smart.he.acute</string>

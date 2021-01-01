@@ -5,9 +5,9 @@
   <anchor x="369" y="132" name="haa.acute"/>
   <anchor x="212" y="651" name="hat"/>
   <anchor x="243" y="289" name="he"/>
-  <anchor x="380" y="-16" name="hee"/>
+  <anchor x="411" y="21" name="hee"/>
   <anchor x="420" y="54" name="hi"/>
-  <anchor x="204" y="403" name="ho.ring"/>
+  <anchor x="52" y="284" name="ho.ring"/>
   <anchor x="422" y="287" name="hu"/>
   <anchor x="393" y="8" name="hwa"/>
   <anchor x="217" y="510" name="neck"/>
@@ -16,7 +16,7 @@
     <component base="ga.base"/>
     <component base="_smart.neck" xOffset="213" yOffset="9"/>
     <component base="_smart.hat" xOffset="212" yOffset="-15"/>
-    <component base="_smart.ho.ring" xOffset="186" yOffset="-302"/>
+    <component base="_smart.ho.ring" xOffset="34" yOffset="-421"/>
   </outline>
   <lib>
     <dict>

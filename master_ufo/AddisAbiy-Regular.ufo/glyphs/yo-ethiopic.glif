@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yo-ethiopic" format="2">
-  <advance width="551"/>
+  <advance width="526"/>
   <unicode hex="12EE"/>
   <anchor x="-21" y="367" name="he"/>
-  <anchor x="244" y="154" name="hee"/>
+  <anchor x="183" y="124" name="hee"/>
   <anchor x="449" y="363" name="hu"/>
-  <anchor x="50" y="23" name="yaa"/>
+  <anchor x="30" y="23" name="yaa"/>
   <anchor x="249" y="100" name="ye"/>
   <anchor x="220" y="71" name="yi"/>
   <anchor x="148" y="74" name="yu"/>

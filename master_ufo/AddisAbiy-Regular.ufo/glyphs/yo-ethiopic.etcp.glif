@@ -6,7 +6,7 @@
   <anchor x="539" y="493" name="hu"/>
   <anchor x="50" y="23" name="yaa"/>
   <anchor x="326" y="120" name="ye"/>
-  <anchor x="290" y="151" name="yi"/>
+  <anchor x="290" y="121" name="yi"/>
   <anchor x="190" y="145" name="yu"/>
   <outline>
     <component base="ya.base.cap"/>

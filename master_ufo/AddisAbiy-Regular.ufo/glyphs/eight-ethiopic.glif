@@ -4,24 +4,20 @@
   <unicode hex="1370"/>
   <outline>
     <contour>
-      <point x="182" y="125" type="line"/>
-      <point x="303" y="125" type="line"/>
-      <point x="303" y="167" type="line"/>
-      <point x="269" y="167" type="line"/>
-      <point x="269" y="186" type="line"/>
-      <point x="270" y="515" type="line"/>
-      <point x="270" y="523" type="line"/>
-      <point x="310" y="523" type="line"/>
-      <point x="310" y="585" type="line"/>
-      <point x="190" y="585" type="line"/>
-      <point x="190" y="523" type="line"/>
-      <point x="195" y="523" type="line"/>
-      <point x="195" y="522" type="line"/>
-      <point x="217" y="522" type="line"/>
-      <point x="217" y="523" type="line"/>
-      <point x="218" y="523" type="line"/>
-      <point x="218" y="167" type="line"/>
-      <point x="182" y="167" type="line"/>
+      <point x="172" y="89" type="line"/>
+      <point x="320" y="89" type="line"/>
+      <point x="320" y="137" type="line"/>
+      <point x="273" y="137" type="line"/>
+      <point x="274" y="548" type="line"/>
+      <point x="320" y="548" type="line"/>
+      <point x="320" y="621" type="line"/>
+      <point x="172" y="621" type="line"/>
+      <point x="172" y="548" type="line"/>
+      <point x="212" y="548" type="line"/>
+      <point x="212" y="549" type="line"/>
+      <point x="214" y="549" type="line"/>
+      <point x="214" y="137" type="line"/>
+      <point x="172" y="137" type="line"/>
     </contour>
     <component base="_number.bar"/>
   </outline>

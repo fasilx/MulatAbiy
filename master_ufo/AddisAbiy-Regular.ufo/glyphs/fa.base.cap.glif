@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fa.base.cap" format="2">
   <advance width="581"/>
-  <anchor x="347" y="5" name="haa"/>
-  <anchor x="340" y="10" name="haa.acute"/>
+  <anchor x="250" y="52" name="_fa"/>
+  <anchor x="317" y="5" name="haa"/>
+  <anchor x="301" y="10" name="haa.acute"/>
   <anchor x="448" y="261" name="hee"/>
   <anchor x="342" y="-6" name="hwa"/>
-  <anchor x="533" y="27" name="ri"/>
+  <anchor x="453" y="37" name="ri"/>
   <anchor x="416" y="475" name="ring"/>
   <anchor x="265" y="264" name="top"/>
   <outline>
@@ -30,6 +31,19 @@
       <point x="100" y="9"/>
       <point x="109" y="0"/>
     </contour>
-    <component base="_smart.fa" xOffset="336"/>
+    <contour>
+      <point x="278" y="44" type="line"/>
+      <point x="348" y="44" type="line"/>
+      <point x="348" y="345" type="line" smooth="yes"/>
+      <point x="348" y="375"/>
+      <point x="326" y="395"/>
+      <point x="314" y="395" type="curve" smooth="yes"/>
+      <point x="158" y="395" type="line"/>
+      <point x="159" y="354" type="line"/>
+      <point x="255" y="354" type="line" smooth="yes"/>
+      <point x="268" y="354"/>
+      <point x="278" y="344"/>
+      <point x="278" y="331" type="curve" smooth="yes"/>
+    </contour>
   </outline>
 </glyph>

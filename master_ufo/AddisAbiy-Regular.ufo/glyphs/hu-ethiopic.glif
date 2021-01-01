@@ -4,9 +4,9 @@
   <unicode hex="1201"/>
   <anchor x="402" y="-3" name="haa"/>
   <anchor x="132" y="288" name="he"/>
-  <anchor x="340" y="-10" name="hee"/>
+  <anchor x="378" y="9" name="hee"/>
   <anchor x="409" y="-142" name="hi"/>
-  <anchor x="391" y="456" name="ho.ring"/>
+  <anchor x="401" y="499" name="ho.ring"/>
   <anchor x="454" y="289" name="hu"/>
   <anchor x="403" y="-12" name="hwa"/>
   <outline>

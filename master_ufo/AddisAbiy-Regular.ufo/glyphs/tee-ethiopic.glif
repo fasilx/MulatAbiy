@@ -6,16 +6,16 @@
   <anchor x="163" y="660" name="hat"/>
   <anchor x="86" y="43" name="he"/>
   <anchor x="258" y="476" name="he.acute"/>
-  <anchor x="222" y="-12" name="hee"/>
+  <anchor x="294" y="198" name="hee"/>
   <anchor x="267" y="46" name="hi"/>
-  <anchor x="305" y="611" name="ho.ring"/>
+  <anchor x="215" y="511" name="ho.ring"/>
   <anchor x="268" y="286" name="hu"/>
   <anchor x="220" y="5" name="hwa"/>
   <anchor x="228" y="503" name="neck"/>
   <outline>
     <component base="pa.base"/>
     <component base="_smart.neck" xOffset="224" yOffset="2"/>
-    <component base="_smart.hee" xOffset="222" yOffset="-28"/>
+    <component base="_smart.hee" xOffset="294" yOffset="182"/>
   </outline>
   <lib>
     <dict>

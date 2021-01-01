@@ -1,353 +1,5 @@
 {
 .appVersion = "3039";
-DisplayStrings = (
-"/ba.base",
-"/_smart.hat",
-"",
-"/ba.base",
-"/_smart.he.acute/se-ethiopic",
-"/ba.base/si-ethiopic",
-"/ba.base/she-ethiopic",
-"/wu-ethiopic",
-"/ma.base/mi-ethiopic",
-"/aGl.base.cap/aGlottal-ethiopic.etcp",
-"/_smart.ka/ku-ethiopic.etcp",
-"/_smart.hat.left.aGl/waGlottal-ethiopic",
-"/_smart.aGl/aGlottal-ethiopic",
-"/_smart.eGl/eGlottal-ethiopic",
-"/_smart.ka/ka-ethiopic",
-"/_smart.hat.left/kxwi-ethiopic",
-"",
-"",
-"/ga.base",
-"/na.base",
-"/nwa-ethiopic",
-"/b.base d",
-"/b.base d",
-a,
-"",
-"/pa.base",
-"",
-"/re.base/xoa-ethiopic",
-"/nyo-ethiopic",
-"/tsa.base/pha-ethiopic",
-"/ra.base/ra-ethiopic",
-"/la.base/la-ethiopic",
-"/_smart.aGl/oGlottal-ethiopic",
-"/_smart.ring/hee-ethiopic",
-"/la.base/lu-ethiopic",
-"/la.base/le-ethiopic",
-"/la.base/le-ethiopic",
-"/la.base/le-ethiopic",
-"/_smart.hee/hee-ethiopic",
-"/_smart.hee/hee-ethiopic",
-"/hha.base/hhee-ethiopic",
-"/sa.base/szee-ethiopic",
-"/_smart.haa/haa-ethiopic",
-"/_smart.hee/hee-ethiopic",
-"/wa.base/qa-ethiopic",
-"/wa.base/qho-ethiopic",
-"/wa.base/qu-ethiopic",
-"/wa.base/qhe-ethiopic",
-"/_smart.he.acute/qe-ethiopic",
-"/pa.base/ta-ethiopic",
-"/pa.base/taa-ethiopic",
-"/_smart.he.acute/te-ethiopic",
-"/_smart.he.acute",
-"/ba.base/se-ethiopic",
-"/wa.base/qe-ethiopic",
-"/pa.base/to-ethiopic",
-"/_smart.hee/tee-ethiopic",
-"/pa.base/ci-ethiopic",
-"/na.base/xa-ethiopic",
-"/na.base/xaa-ethiopic",
-"/na.base/nya-ethiopic",
-"/re.base/nyaa-ethiopic",
-"/_smart.hwa/xwa-ethiopic/xwi-ethiopic/xwaa-ethiopic/xwee-ethiopic/xwe-ethiopic",
-"/re.base/xo-ethiopic",
-"/aPh.base/uPharyngeal-ethiopic",
-"/za.base/zu-ethiopic",
-"/aPh.base/aPharyngeal-ethiopic",
-"/aPh.base/aPharyngeal-ethiopic/eePharyngeal-ethiopic",
-"/za.base/ze-ethiopic",
-"/_smart.zha/zha-ethiopic",
-"/po-ethiopic",
-"/ra.base/ri-ethiopic",
-"/ra.base/ree-ethiopic",
-"/ra.base/ri-ethiopic",
-"/ra.base/rwa-ethiopic",
-"/ra.base/rwa-ethiopic",
-"/ba.base/see-ethiopic",
-"/ya.base/yu-ethiopic",
-"/ya.base/yee-ethiopic",
-"/_smart.yu/yu-ethiopic",
-"/_smart.yu/yu-ethiopic",
-"/ya.base/yee-ethiopic",
-"/ya.base/yoa-ethiopic",
-"/da.base/dwa-ethiopic",
-"/da.base/ddi-ethiopic",
-"/ga.base/gu-ethiopic",
-"/ga.base/ge-ethiopic",
-"/ga.base/gge-ethiopic",
-"/hha.base/the-ethiopic",
-"/hha.base/che-ethiopic",
-"/_smart.cha/cho-ethiopic",
-"/hha.base/cho-ethiopic",
-"/hha.base/cho-ethiopic",
-"/tsa.base/tsi-ethiopic",
-"/_smart.belt/tza-ethiopic",
-"/fa.base/fu-ethiopic",
-"/fa.base/fi-ethiopic",
-"/fa.base/fee-ethiopic",
-"/fa.base/fi-ethiopic",
-"/fa.base/fe-ethiopic",
-"/rya-ethiopic",
-"/ga.base/ggu-ethiopic",
-"U/ha-ethiopic.etcp",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"/la.base.cap/lu-ethiopic.etcp",
-"/le-ethiopic.etcp",
-"/la.base.cap/la-ethiopic.etcp",
-"/hhee-ethiopic.etcp",
-"/la.base.cap/lo-ethiopic.etcp",
-"/re.base.cap/ro-ethiopic.etcp",
-"/ba.base.cap/su-ethiopic.etcp",
-"/aPh.base",
-"/c.base/wa.base.cap",
-"/ya.base.cap",
-"/shu-ethiopic.etcp",
-"/see-ethiopic.etcp",
-"/bu-ethiopic.etcp/vu-ethiopic.etcp/vi-ethiopic.etcp/ve-ethiopic.etcp",
-"/bi-ethiopic.etcp",
-"/vaa-ethiopic.etcp",
-"/bwa-ethiopic.etcp",
-"/vwa-ethiopic.etcp",
-"/co-ethiopic.etcp",
-"/tee-ethiopic.etcp",
-"/cu-ethiopic.etcp",
-"/pa.base.cap/cwa-ethiopic.etcp",
-"/fa-ethiopic.etcp/fu-ethiopic.etcp/fi-ethiopic.etcp/faa-ethiopic.etcp/fe-ethiopic.etcp",
-"/ha.base.cap/hu-ethiopic.etcp",
-"/sa.base.cap/szu-ethiopic.etcp",
-"/ku-ethiopic.etcp",
-"/za.base.cap/zu-ethiopic.etcp",
-"/aPh.base.cap/tzu-ethiopic.etcp",
-"/wa.base.cap/qaa-ethiopic.etcp",
-"/za.base.cap/zaa-ethiopic.etcp",
-"/tsa.base.cap/tsaa-ethiopic.etcp",
-"/fa.base.cap/faa-ethiopic.etcp",
-"/hha.base.cap/hhi-ethiopic.etcp",
-"/wa.base.cap/qi-ethiopic.etcp",
-"/za.base.cap/zi-ethiopic.etcp",
-"/ga.base.cap/ggi-ethiopic.etcp",
-"/pa.base.cap/pi-ethiopic.etcp",
-"/_smart.ho/hho-ethiopic.etcp",
-"/sa.base.cap/szo-ethiopic.etcp",
-"/wa.base.cap/qo-ethiopic.etcp",
-"/tsa.base.cap/pho-ethiopic.etcp",
-"/sa.base.cap/szwa-ethiopic.etcp",
-"/tsa.base.cap/phwa-ethiopic.etcp",
-"/ha.base.cap/ho-ethiopic.etcp",
-"/mwa-ethiopic.etcp",
-"/sa.base.cap/szo-ethiopic.etcp",
-"/ra.base.cap/ri-ethiopic.etcp",
-"/ra.base.cap/rwa-ethiopic.etcp",
-"/_smart.neck/qa-ethiopic.etcp",
-"/wa.base.cap/qaa-ethiopic.etcp",
-"/qe-ethiopic.etcp/qwe-ethiopic.etcp",
-"/qwaa-ethiopic.etcp",
-"/wa.base.cap/qho-ethiopic.etcp",
-"/taa-ethiopic.etcp",
-"/ca-ethiopic.etcp/cu-ethiopic.etcp/ci-ethiopic.etcp/caa-ethiopic.etcp/cee-ethiopic.etcp/ce-ethiopic.etcp/co-ethiopic.etcp/cwa-ethiopic.etcp",
-"/na.base.cap/xaa-ethiopic.etcp",
-"/aGl.base.cap",
-"/aGl.base.cap/aGlottal-ethiopic.etcp",
-"/aGl.base.cap/waGlottal-ethiopic.etcp",
-"/aPh.base.cap/ePharyngeal-ethiopic.etcp",
-"/iPharyngeal-ethiopic.etcp",
-"/aPh.base.cap/oPharyngeal-ethiopic.etcp",
-"/za.base.cap/ze-ethiopic.etcp",
-"/_smart.yu/yu-ethiopic.etcp",
-"/ya.base.cap/yi-ethiopic.etcp",
-"/ya.base.cap/yee-ethiopic.etcp",
-"/ya.base.cap/yo-ethiopic.etcp",
-"/da.base.cap/de-ethiopic.etcp",
-"/da.base.cap/du-ethiopic.etcp",
-"/ga.base.cap/ge-ethiopic.etcp",
-"/ga.base.cap/ggo-ethiopic.etcp",
-"/ggaa-ethiopic.etcp",
-"/fa.base.cap/fu-ethiopic.etcp",
-"/_smart.ri/ri-ethiopic",
-"/rwa-ethiopic",
-"/fa.base.cap/fi-ethiopic.etcp",
-"/fa.base.cap/fa-ethiopic.etcp",
-"/re.base.cap/fo-ethiopic.etcp",
-"/_smart.fa/fwa-ethiopic.etcp",
-"/_smart.fa/fwa-ethiopic.etcp",
-"/_smart.fa/fo-ethiopic.etcp",
-"/_smart.fa/fo-ethiopic.etcp",
-"/ga.base.cap/nye-ethiopic.etcp",
-"/na.base.cap/nyee-ethiopic.etcp",
-"/wa-ethiopic.etcp",
-"/la.base",
-"ð",
-"/_smart.haa/laa-ethiopic",
-"/ba.base/saa-ethiopic",
-"/ddi-ethiopic",
-"/da.base/ji-ethiopic",
-"/ba.base.cap/kxwee-ethiopic.etcp",
-"/da.base.cap/jwa-ethiopic.etcp",
-"/hha.base/hho-ethiopic",
-"/ma.base/me-ethiopic",
-"/szi-ethiopic",
-"/ba.base/so-ethiopic",
-"/_smart.ho/so-ethiopic",
-"/ba.base/she-ethiopic",
-"/_smart.hwa/kxwa-ethiopic",
-"/da.base/do-ethiopic",
-"/_smart.haa.acute/gaa-ethiopic",
-"/ga.base/gaa-ethiopic",
-"/ga.base/gwi-ethiopic",
-"/_smart.hwa/xwaa-ethiopic",
-"/na.base/ni-ethiopic",
-"/tsa.base/phwa-ethiopic",
-"/pa.base.cap/ce-ethiopic.etcp",
-"/na.base.cap/xee-ethiopic.etcp",
-"/za.base.cap/zhaa-ethiopic.etcp",
-"/eighty-ethiopic",
-"/two-ethiopic",
-"/wa.base",
-"/sa.base",
-"/la.base.cap",
-"/za.base.cap",
-"/uni0387",
-"/colon-ethiopic",
-"/semicolon-ethiopic",
-".",
-";",
-"/_smart.zha/zha-ethiopic",
-"H/za.base.cap/zhaa-ethiopic.etcp",
-"/za.base.cap/zu-ethiopic.etcp",
-"/za.base.cap/ze-ethiopic.etcp",
-"/ya.base/yu-ethiopic",
-"/_smart.ye/ye-ethiopic",
-"/ha.base.cap",
-"/re.base.cap/fo-ethiopic.etcp",
-"/tsa.base.cap/phee-ethiopic.etcp",
-"/hha.base.cap/che-ethiopic.etcp",
-"/hha.base.cap/the-ethiopic.etcp",
-"/the-ethiopic.etcp",
-"/ha.base.cap/he-ethiopic.etcp",
-"/ha.base.cap/ho-ethiopic.etcp",
-"/la.base.cap/laa-ethiopic.etcp",
-"/aGl.base.cap/aaGlottal-ethiopic.etcp",
-"Ç",
-"/hha.base.cap",
-"/hha-ethiopic.etcp",
-"/sa.base.cap",
-"/su-ethiopic.etcp",
-"/ba.base.cap/sa-ethiopic.etcp",
-"/sa-ethiopic.etcp",
-"/ba.base.cap/ba-ethiopic.etcp",
-"/_smart.he.acute/te-ethiopic",
-"/aPharyngeal-ethiopic/aaPharyngeal-ethiopic",
-"/ha.base",
-"/c.base O/aPh.base.cap/aaPharyngeal-ethiopic.etcp",
-"/aPh.base.cap/aaPharyngeal-ethiopic.etcp",
-"/uPharyngeal-ethiopic",
-"/aaPharyngeal-ethiopic",
-"/ePharyngeal-ethiopic",
-"/ga.base/ge-ethiopic",
-"¿",
-"¡",
-"/paragraphseparator-ethiopic",
-"/question-ethiopic",
-"~",
-"/_smart.he/be-ethiopic",
-"/ba.base/be-ethiopic",
-"/ve-ethiopic",
-"/_smart.eGl/eGlottal-ethiopic",
-"/_smart.hat/cee-ethiopic",
-"/pa.base/te-ethiopic",
-"/pa.base/ce-ethiopic",
-"/ya.base/yee-ethiopic",
-"/_smart.yu/yu-ethiopic",
-"/_smart.yu/yu-ethiopic",
-"/_smart.yi/yi-ethiopic",
-"/ba.base/bee-ethiopic",
-"/bee-ethiopic",
-"/hha.base/hhee-ethiopic",
-"/_smart.hee/hhee-ethiopic",
-"/pa.base/tee-ethiopic",
-"/za.base/zee-ethiopic",
-"/ga.base/gee-ethiopic",
-"/tsa.base/tsee-ethiopic",
-"/_smart.hee/hee-ethiopic",
-"/hha.base.cap/tha-ethiopic.etcp",
-"/_smart.hee/shee-ethiopic",
-"/la.base/lee-ethiopic",
-"/na.base/xee-ethiopic",
-"/wa.base/wee-ethiopic",
-"/ga.base/gee-ethiopic",
-"/_smart.ho.ring/ho-ethiopic",
-"/ha.base/ho-ethiopic",
-"/la.base/lo-ethiopic",
-"/pa.base/to-ethiopic",
-"/ga.base/ge-ethiopic",
-"/ree-ethiopic",
-"/la.base.cap/lwa-ethiopic.etcp",
-"/pa.base.cap/to-ethiopic.etcp",
-"/re.base.cap/xo-ethiopic.etcp",
-"/ga.base.cap/ge-ethiopic.etcp",
-"/za.base/ze-ethiopic",
-"/_smart.hee/hee-ethiopic",
-"/_smart.ho.ring/ro-ethiopic",
-"/qhaa-ethiopic",
-"/_smart.haa.acute/xaa-ethiopic",
-"/_smart.aGl/waGlottal-ethiopic",
-"/_smart.ka/koa-ethiopic",
-"/ba.base/kxwi-ethiopic",
-"/three-ethiopic",
-"/five-ethiopic",
-"/seven-ethiopic",
-"/nine-ethiopic",
-"/twenty-ethiopic",
-"/forty-ethiopic",
-"/sixty-ethiopic",
-"/fa.base.cap/fi-ethiopic.etcp",
-"/fa.base/fi-ethiopic",
-"/fa.base/faa-ethiopic",
-"/_smart.ri/fi-ethiopic",
-"/fa-ethiopic.etcp",
-"/fa.base.cap/fu-ethiopic.etcp",
-"/fa.base.cap/fu-ethiopic.etcp",
-"3",
-"5",
-"7",
-"9",
-"/period-ethiopic",
-"Æ",
-"/ra.base",
-"/fa.base/fee-ethiopic",
-"/ya.base/yaa-ethiopic",
-"/ga.base.cap/ne-ethiopic.etcp",
-"/fa.base/fee-ethiopic",
-"/fee-ethiopic.etcp",
-"/ra.base.cap/ri-ethiopic.etcp",
-"/ra.base.cap/ri-ethiopic.etcp",
-"/ra.base.cap/raa-ethiopic.etcp",
-"/rwa-ethiopic.etcp",
-"/ma.base",
-"/ya.base"
-);
 classes = (
 {
 code = "ha-ethiopic.etcp hu-ethiopic.etcp hi-ethiopic.etcp haa-ethiopic.etcp hee-ethiopic.etcp he-ethiopic.etcp ho-ethiopic.etcp hoa-ethiopic.etcp la-ethiopic.etcp lu-ethiopic.etcp li-ethiopic.etcp laa-ethiopic.etcp lee-ethiopic.etcp le-ethiopic.etcp lo-ethiopic.etcp lwa-ethiopic.etcp hha-ethiopic.etcp hhu-ethiopic.etcp hhi-ethiopic.etcp hhaa-ethiopic.etcp hhee-ethiopic.etcp hhe-ethiopic.etcp hho-ethiopic.etcp hhwa-ethiopic.etcp ma-ethiopic.etcp mu-ethiopic.etcp mi-ethiopic.etcp maa-ethiopic.etcp mee-ethiopic.etcp me-ethiopic.etcp mo-ethiopic.etcp mwa-ethiopic.etcp sza-ethiopic.etcp szu-ethiopic.etcp szi-ethiopic.etcp szaa-ethiopic.etcp szee-ethiopic.etcp sze-ethiopic.etcp szo-ethiopic.etcp szwa-ethiopic.etcp ra-ethiopic.etcp ru-ethiopic.etcp ri-ethiopic.etcp raa-ethiopic.etcp ree-ethiopic.etcp re-ethiopic.etcp ro-ethiopic.etcp rwa-ethiopic.etcp sa-ethiopic.etcp su-ethiopic.etcp si-ethiopic.etcp saa-ethiopic.etcp see-ethiopic.etcp se-ethiopic.etcp so-ethiopic.etcp swa-ethiopic.etcp sha-ethiopic.etcp shu-ethiopic.etcp shi-ethiopic.etcp shaa-ethiopic.etcp shee-ethiopic.etcp she-ethiopic.etcp sho-ethiopic.etcp shwa-ethiopic.etcp qa-ethiopic.etcp qu-ethiopic.etcp qi-ethiopic.etcp qaa-ethiopic.etcp qee-ethiopic.etcp qe-ethiopic.etcp qo-ethiopic.etcp qoa-ethiopic.etcp qwa-ethiopic.etcp qwi-ethiopic.etcp qwaa-ethiopic.etcp qwee-ethiopic.etcp qwe-ethiopic.etcp qha-ethiopic.etcp qhu-ethiopic.etcp qhi-ethiopic.etcp qhaa-ethiopic.etcp qhee-ethiopic.etcp qhe-ethiopic.etcp qho-ethiopic.etcp qhwa-ethiopic.etcp qhwi-ethiopic.etcp qhwaa-ethiopic.etcp qhwee-ethiopic.etcp qhwe-ethiopic.etcp ba-ethiopic.etcp bu-ethiopic.etcp bi-ethiopic.etcp baa-ethiopic.etcp bee-ethiopic.etcp be-ethiopic.etcp bo-ethiopic.etcp bwa-ethiopic.etcp va-ethiopic.etcp vu-ethiopic.etcp vi-ethiopic.etcp vaa-ethiopic.etcp vee-ethiopic.etcp ve-ethiopic.etcp vo-ethiopic.etcp vwa-ethiopic.etcp ta-ethiopic.etcp tu-ethiopic.etcp ti-ethiopic.etcp taa-ethiopic.etcp tee-ethiopic.etcp te-ethiopic.etcp to-ethiopic.etcp twa-ethiopic.etcp ca-ethiopic.etcp cu-ethiopic.etcp ci-ethiopic.etcp caa-ethiopic.etcp cee-ethiopic.etcp ce-ethiopic.etcp co-ethiopic.etcp cwa-ethiopic.etcp xa-ethiopic.etcp xu-ethiopic.etcp xi-ethiopic.etcp xaa-ethiopic.etcp xee-ethiopic.etcp xe-ethiopic.etcp xo-ethiopic.etcp xoa-ethiopic.etcp xwa-ethiopic.etcp xwi-ethiopic.etcp xwaa-ethiopic.etcp xwee-ethiopic.etcp xwe-ethiopic.etcp na-ethiopic.etcp nu-ethiopic.etcp ni-ethiopic.etcp naa-ethiopic.etcp nee-ethiopic.etcp ne-ethiopic.etcp no-ethiopic.etcp nwa-ethiopic.etcp nya-ethiopic.etcp nyu-ethiopic.etcp nyi-ethiopic.etcp nyaa-ethiopic.etcp nyee-ethiopic.etcp nye-ethiopic.etcp nyo-ethiopic.etcp nywa-ethiopic.etcp aGlottal-ethiopic.etcp uGlottal-ethiopic.etcp iGlottal-ethiopic.etcp aaGlottal-ethiopic.etcp eeGlottal-ethiopic.etcp eGlottal-ethiopic.etcp oGlottal-ethiopic.etcp waGlottal-ethiopic.etcp ka-ethiopic.etcp ku-ethiopic.etcp ki-ethiopic.etcp kaa-ethiopic.etcp kee-ethiopic.etcp ke-ethiopic.etcp ko-ethiopic.etcp koa-ethiopic.etcp kwa-ethiopic.etcp kwi-ethiopic.etcp kwaa-ethiopic.etcp kwee-ethiopic.etcp kwe-ethiopic.etcp kxa-ethiopic.etcp kxu-ethiopic.etcp kxi-ethiopic.etcp kxaa-ethiopic.etcp kxee-ethiopic.etcp kxe-ethiopic.etcp kxo-ethiopic.etcp kxwa-ethiopic.etcp kxwi-ethiopic.etcp kxwaa-ethiopic.etcp kxwee-ethiopic.etcp kxwe-ethiopic.etcp wa-ethiopic.etcp wu-ethiopic.etcp wi-ethiopic.etcp waa-ethiopic.etcp wee-ethiopic.etcp we-ethiopic.etcp wo-ethiopic.etcp woa-ethiopic.etcp aPharyngeal-ethiopic.etcp uPharyngeal-ethiopic.etcp iPharyngeal-ethiopic.etcp aaPharyngeal-ethiopic.etcp eePharyngeal-ethiopic.etcp ePharyngeal-ethiopic.etcp oPharyngeal-ethiopic.etcp za-ethiopic.etcp zu-ethiopic.etcp zi-ethiopic.etcp zaa-ethiopic.etcp zee-ethiopic.etcp ze-ethiopic.etcp zo-ethiopic.etcp zwa-ethiopic.etcp zha-ethiopic.etcp zhu-ethiopic.etcp zhi-ethiopic.etcp zhaa-ethiopic.etcp zhee-ethiopic.etcp zhe-ethiopic.etcp zho-ethiopic.etcp zhwa-ethiopic.etcp ya-ethiopic.etcp yu-ethiopic.etcp yi-ethiopic.etcp yaa-ethiopic.etcp yee-ethiopic.etcp ye-ethiopic.etcp yo-ethiopic.etcp yoa-ethiopic.etcp da-ethiopic.etcp du-ethiopic.etcp di-ethiopic.etcp daa-ethiopic.etcp dee-ethiopic.etcp de-ethiopic.etcp do-ethiopic.etcp dwa-ethiopic.etcp dda-ethiopic.etcp ddu-ethiopic.etcp ddi-ethiopic.etcp ddaa-ethiopic.etcp ddee-ethiopic.etcp dde-ethiopic.etcp ddo-ethiopic.etcp ddwa-ethiopic.etcp ja-ethiopic.etcp ju-ethiopic.etcp ji-ethiopic.etcp jaa-ethiopic.etcp jee-ethiopic.etcp je-ethiopic.etcp jo-ethiopic.etcp jwa-ethiopic.etcp ga-ethiopic.etcp gu-ethiopic.etcp gi-ethiopic.etcp gaa-ethiopic.etcp gee-ethiopic.etcp ge-ethiopic.etcp go-ethiopic.etcp goa-ethiopic.etcp gwa-ethiopic.etcp gwi-ethiopic.etcp gwaa-ethiopic.etcp gwee-ethiopic.etcp gwe-ethiopic.etcp gga-ethiopic.etcp ggu-ethiopic.etcp ggi-ethiopic.etcp ggaa-ethiopic.etcp ggee-ethiopic.etcp gge-ethiopic.etcp ggo-ethiopic.etcp ggwaa-ethiopic.etcp tha-ethiopic.etcp thu-ethiopic.etcp thi-ethiopic.etcp thaa-ethiopic.etcp thee-ethiopic.etcp the-ethiopic.etcp tho-ethiopic.etcp thwa-ethiopic.etcp cha-ethiopic.etcp chu-ethiopic.etcp chi-ethiopic.etcp chaa-ethiopic.etcp chee-ethiopic.etcp che-ethiopic.etcp cho-ethiopic.etcp chwa-ethiopic.etcp pha-ethiopic.etcp phu-ethiopic.etcp phi-ethiopic.etcp phaa-ethiopic.etcp phee-ethiopic.etcp phe-ethiopic.etcp pho-ethiopic.etcp phwa-ethiopic.etcp tsa-ethiopic.etcp tsu-ethiopic.etcp tsi-ethiopic.etcp tsaa-ethiopic.etcp tsee-ethiopic.etcp tse-ethiopic.etcp tso-ethiopic.etcp tswa-ethiopic.etcp tza-ethiopic.etcp tzu-ethiopic.etcp tzi-ethiopic.etcp tzaa-ethiopic.etcp tzee-ethiopic.etcp tze-ethiopic.etcp tzo-ethiopic.etcp tzoa-ethiopic.etcp fa-ethiopic.etcp fu-ethiopic.etcp fi-ethiopic.etcp faa-ethiopic.etcp fee-ethiopic.etcp fe-ethiopic.etcp fo-ethiopic.etcp fwa-ethiopic.etcp pa-ethiopic.etcp pu-ethiopic.etcp pi-ethiopic.etcp paa-ethiopic.etcp pee-ethiopic.etcp pe-ethiopic.etcp po-ethiopic.etcp pwa-ethiopic.etcp rya-ethiopic.etcp";
@@ -19737,7 +19389,7 @@ width = 665;
 },
 {
 glyphname = "uPharyngeal-ethiopic.etcp";
-lastChange = "2020-12-30 19:50:52 +0000";
+lastChange = "2020-12-31 02:44:21 +0000";
 layers = (
 {
 components = (
@@ -19746,7 +19398,7 @@ name = aPh.base.cap;
 },
 {
 name = _smart.hu;
-transform = "{1, 0, 0, 1, 554, 188}";
+transform = "{1, 0, 0, 1, 571, 188}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -20293,7 +19945,7 @@ width = 625;
 },
 {
 glyphname = "yi-ethiopic.etcp";
-lastChange = "2020-12-30 22:31:26 +0000";
+lastChange = "2020-12-31 02:44:43 +0000";
 layers = (
 {
 components = (
@@ -20302,7 +19954,7 @@ name = ya.base.cap;
 },
 {
 name = _smart.yi;
-transform = "{1, 0, 0, 1, 164, 51}";
+transform = "{1, 0, 0, 1, 164, 21}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -22317,22 +21969,29 @@ width = 688;
 },
 {
 glyphname = "tza-ethiopic.etcp";
-lastChange = "2020-12-30 07:26:07 +0000";
+lastChange = "2020-12-31 02:44:05 +0000";
 layers = (
 {
 components = (
 {
 name = aPh.base.cap;
+},
+{
+name = _smart.belt;
+transform = "{1, 0, 0, 1, 391, 0}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
+userData = {
+_smart.belt = 1;
+};
 width = 665;
 }
 );
 },
 {
 glyphname = "tzu-ethiopic.etcp";
-lastChange = "2020-12-30 07:36:03 +0000";
+lastChange = "2020-12-31 02:44:16 +0000";
 layers = (
 {
 components = (
@@ -22341,11 +22000,16 @@ name = aPh.base.cap;
 },
 {
 name = _smart.hu;
-transform = "{1, 0, 0, 1, 554, 188}";
+transform = "{1, 0, 0, 1, 571, 188}";
+},
+{
+name = _smart.belt;
+transform = "{1, 0, 0, 1, 391, 0}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
 userData = {
+_smart.belt = 1;
 _smart.hu = 1;
 };
 width = 665;
@@ -22354,7 +22018,7 @@ width = 665;
 },
 {
 glyphname = "tzi-ethiopic.etcp";
-lastChange = "2020-12-30 21:00:03 +0000";
+lastChange = "2020-12-31 02:44:05 +0000";
 layers = (
 {
 components = (
@@ -22368,10 +22032,15 @@ transform = "{1, 0, 0, 1, 484, -179}";
 {
 name = _smart.haa;
 transform = "{1, 0, 0, 1, 471, 5}";
+},
+{
+name = _smart.belt;
+transform = "{1, 0, 0, 1, 391, 0}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
 userData = {
+_smart.belt = 1;
 _smart.haa = 1;
 _smart.hi = 1;
 };
@@ -22381,7 +22050,7 @@ width = 665;
 },
 {
 glyphname = "tzaa-ethiopic.etcp";
-lastChange = "2020-12-30 21:00:03 +0000";
+lastChange = "2020-12-31 02:44:05 +0000";
 layers = (
 {
 components = (
@@ -22391,10 +22060,15 @@ name = aPh.base.cap;
 {
 name = _smart.haa;
 transform = "{1, 0, 0, 1, 471, 5}";
+},
+{
+name = _smart.belt;
+transform = "{1, 0, 0, 1, 391, 0}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
 userData = {
+_smart.belt = 1;
 _smart.haa.cap = 1;
 };
 width = 665;
@@ -22403,7 +22077,7 @@ width = 665;
 },
 {
 glyphname = "tzee-ethiopic.etcp";
-lastChange = "2020-12-30 19:55:13 +0000";
+lastChange = "2020-12-31 02:44:05 +0000";
 layers = (
 {
 components = (
@@ -22413,10 +22087,15 @@ name = aPh.base.cap;
 {
 name = _smart.hee;
 transform = "{1, 0, 0, 1, 423, -30}";
+},
+{
+name = _smart.belt;
+transform = "{1, 0, 0, 1, 391, 0}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
 userData = {
+_smart.belt = 1;
 _smart.hee = 1;
 };
 width = 665;
@@ -22425,22 +22104,29 @@ width = 665;
 },
 {
 glyphname = "tze-ethiopic.etcp";
-lastChange = "2020-12-30 07:26:07 +0000";
+lastChange = "2020-12-31 02:44:05 +0000";
 layers = (
 {
 components = (
 {
 name = aPh.base.cap;
+},
+{
+name = _smart.belt;
+transform = "{1, 0, 0, 1, 391, 0}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
+userData = {
+_smart.belt = 1;
+};
 width = 665;
 }
 );
 },
 {
 glyphname = "tzo-ethiopic.etcp";
-lastChange = "2020-12-30 07:55:50 +0000";
+lastChange = "2020-12-31 02:44:05 +0000";
 layers = (
 {
 components = (
@@ -22450,10 +22136,15 @@ name = aPh.base.cap;
 {
 name = _smart.ho;
 transform = "{1, 0, 0, 1, 413, 17}";
+},
+{
+name = _smart.belt;
+transform = "{1, 0, 0, 1, 391, 0}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
 userData = {
+_smart.belt = 1;
 _smart.ho = 1;
 };
 width = 665;
@@ -22462,15 +22153,27 @@ width = 665;
 },
 {
 glyphname = "tzoa-ethiopic.etcp";
-lastChange = "2020-12-30 07:26:07 +0000";
+lastChange = "2020-12-31 02:43:52 +0000";
 layers = (
 {
 components = (
 {
 name = aPh.base.cap;
+},
+{
+name = _smart.belt;
+transform = "{1, 0, 0, 1, 391, 0}";
+},
+{
+name = _smart.hwa;
+transform = "{1, 0, 0, 1, 433, 8}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
+userData = {
+_smart.belt = 1;
+_smart.hwa = 1;
+};
 width = 665;
 }
 );
@@ -33058,13 +32761,13 @@ width = 700;
 },
 {
 glyphname = aPh.base.cap;
-lastChange = "2020-12-30 23:04:26 +0000";
+lastChange = "2020-12-31 02:44:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = belt;
-position = "{230, 284}";
+position = "{363, 284}";
 },
 {
 name = haa;
@@ -33092,11 +32795,11 @@ position = "{412, -1}";
 },
 {
 name = hu;
-position = "{552, 474}";
+position = "{569, 474}";
 },
 {
 name = hwa;
-position = "{308, 1}";
+position = "{438, 1}";
 },
 {
 name = neck;
@@ -34594,7 +34297,7 @@ width = 868;
 },
 {
 glyphname = ya.base.cap;
-lastChange = "2020-12-30 22:30:55 +0000";
+lastChange = "2020-12-31 02:44:43 +0000";
 layers = (
 {
 anchors = (
@@ -34620,7 +34323,7 @@ position = "{326, 120}";
 },
 {
 name = yi;
-position = "{290, 151}";
+position = "{290, 121}";
 },
 {
 name = yu;
@@ -35244,7 +34947,7 @@ width = 0;
 {
 export = 0;
 glyphname = _smart.belt;
-lastChange = "2020-12-30 02:27:19 +0000";
+lastChange = "2020-12-31 02:42:57 +0000";
 layers = (
 {
 anchors = (
@@ -35258,20 +34961,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"118 260 LINE SMOOTH",
-"132 260 OFFCURVE",
+"118 251 LINE SMOOTH",
+"132 251 OFFCURVE",
 "142 270 OFFCURVE",
 "142 284 CURVE SMOOTH",
 "142 298 OFFCURVE",
-"132 308 OFFCURVE",
-"118 308 CURVE SMOOTH",
-"-185 308 LINE SMOOTH",
-"-199 308 OFFCURVE",
+"132 313 OFFCURVE",
+"118 313 CURVE SMOOTH",
+"-185 313 LINE SMOOTH",
+"-199 313 OFFCURVE",
 "-209 298 OFFCURVE",
 "-209 284 CURVE SMOOTH",
 "-209 270 OFFCURVE",
-"-199 260 OFFCURVE",
-"-185 260 CURVE SMOOTH"
+"-199 251 OFFCURVE",
+"-185 251 CURVE SMOOTH"
 );
 }
 );

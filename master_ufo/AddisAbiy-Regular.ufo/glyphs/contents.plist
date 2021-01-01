@@ -164,6 +164,8 @@
     <string>_smart.hat.glif</string>
     <key>_smart.hat.left</key>
     <string>_smart.hat.left.glif</string>
+    <key>_smart.hat.left.aGl</key>
+    <string>_smart.hat.left.aG_l.glif</string>
     <key>_smart.hat.low</key>
     <string>_smart.hat.low.glif</string>
     <key>_smart.he</key>

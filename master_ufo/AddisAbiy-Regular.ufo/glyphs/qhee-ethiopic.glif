@@ -7,16 +7,16 @@
   <anchor x="289" y="627" name="hat"/>
   <anchor x="221" y="646" name="he"/>
   <anchor x="320" y="483" name="he.acute"/>
-  <anchor x="336" y="-24" name="hee"/>
+  <anchor x="376" y="-24" name="hee"/>
   <anchor x="361" y="-141" name="hi"/>
-  <anchor x="412" y="591" name="ho.ring"/>
+  <anchor x="322" y="511" name="ho.ring"/>
   <anchor x="626" y="278" name="hu"/>
   <anchor x="348" y="-15" name="hwa"/>
   <anchor x="330" y="501" name="neck"/>
   <outline>
     <component base="wa.base"/>
     <component base="_smart.neck" xOffset="326"/>
-    <component base="_smart.hee" xOffset="336" yOffset="-40"/>
+    <component base="_smart.hee" xOffset="376" yOffset="-40"/>
   </outline>
   <lib>
     <dict>

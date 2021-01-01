@@ -1,16 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fu-ethiopic.etcp" format="2">
   <advance width="581"/>
-  <anchor x="347" y="5" name="haa"/>
-  <anchor x="340" y="10" name="haa.acute"/>
-  <anchor x="448" y="261" name="hee"/>
-  <anchor x="342" y="-6" name="hwa"/>
-  <anchor x="533" y="27" name="ri"/>
-  <anchor x="416" y="475" name="ring"/>
-  <anchor x="265" y="264" name="top"/>
   <outline>
     <component base="fa.base.cap"/>
-    <component base="_smart.haa.acute" xOffset="340" yOffset="29"/>
+    <component base="_smart.haa.acute" xOffset="301" yOffset="29"/>
   </outline>
   <lib>
     <dict>

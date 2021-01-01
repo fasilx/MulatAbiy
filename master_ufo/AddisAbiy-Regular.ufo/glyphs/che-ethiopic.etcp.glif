@@ -14,7 +14,7 @@
   <outline>
     <component base="hha.base.cap"/>
     <component base="_smart.cha" xOffset="360" yOffset="1"/>
-    <component base="acute" xOffset="230" yOffset="-530"/>
+    <component base="acute" xOffset="230" yOffset="-770"/>
   </outline>
   <lib>
     <dict>

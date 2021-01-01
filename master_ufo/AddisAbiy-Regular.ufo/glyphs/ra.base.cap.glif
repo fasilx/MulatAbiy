@@ -2,9 +2,10 @@
 <glyph name="ra.base.cap" format="2">
   <advance width="506"/>
   <anchor x="314" y="-1" name="haa"/>
-  <anchor x="425" y="54" name="haa.acute"/>
   <anchor x="129" y="673" name="hat"/>
   <anchor x="438" y="298" name="hee"/>
+  <anchor x="324" y="68" name="raa"/>
+  <anchor x="425" y="64" name="ri"/>
   <outline>
     <contour>
       <point x="120" y="0" type="curve" smooth="yes"/>

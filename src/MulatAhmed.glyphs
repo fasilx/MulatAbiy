@@ -1,5 +1,29 @@
 {
 .appVersion = "3039";
+DisplayStrings = (
+"/da.base/do-ethiopic",
+"/_smart.ho/do-ethiopic",
+"/da.base.cap/do-ethiopic.etcp",
+"/da.base.cap",
+"/aGl.base.cap",
+"/aPh.base.cap",
+"/ba.base.cap",
+"/ga.base.cap",
+"/fa.base.cap",
+"/ha.base.cap",
+"/hha.base.cap",
+"/la.base.cap",
+"/ma.base.cap",
+"/na.base.cap",
+"/pa.base.cap",
+"/ra.base.cap",
+"/re.base.cap",
+"/sa.base.cap",
+"/tsa.base.cap",
+"/wa.base.cap",
+"/ya.base.cap",
+"/za.base.cap"
+);
 classes = (
 {
 code = "ha-ethiopic.etcp hu-ethiopic.etcp hi-ethiopic.etcp haa-ethiopic.etcp hee-ethiopic.etcp he-ethiopic.etcp ho-ethiopic.etcp hoa-ethiopic.etcp la-ethiopic.etcp lu-ethiopic.etcp li-ethiopic.etcp laa-ethiopic.etcp lee-ethiopic.etcp le-ethiopic.etcp lo-ethiopic.etcp lwa-ethiopic.etcp hha-ethiopic.etcp hhu-ethiopic.etcp hhi-ethiopic.etcp hhaa-ethiopic.etcp hhee-ethiopic.etcp hhe-ethiopic.etcp hho-ethiopic.etcp hhwa-ethiopic.etcp ma-ethiopic.etcp mu-ethiopic.etcp mi-ethiopic.etcp maa-ethiopic.etcp mee-ethiopic.etcp me-ethiopic.etcp mo-ethiopic.etcp mwa-ethiopic.etcp sza-ethiopic.etcp szu-ethiopic.etcp szi-ethiopic.etcp szaa-ethiopic.etcp szee-ethiopic.etcp sze-ethiopic.etcp szo-ethiopic.etcp szwa-ethiopic.etcp ra-ethiopic.etcp ru-ethiopic.etcp ri-ethiopic.etcp raa-ethiopic.etcp ree-ethiopic.etcp re-ethiopic.etcp ro-ethiopic.etcp rwa-ethiopic.etcp sa-ethiopic.etcp su-ethiopic.etcp si-ethiopic.etcp saa-ethiopic.etcp see-ethiopic.etcp se-ethiopic.etcp so-ethiopic.etcp swa-ethiopic.etcp sha-ethiopic.etcp shu-ethiopic.etcp shi-ethiopic.etcp shaa-ethiopic.etcp shee-ethiopic.etcp she-ethiopic.etcp sho-ethiopic.etcp shwa-ethiopic.etcp qa-ethiopic.etcp qu-ethiopic.etcp qi-ethiopic.etcp qaa-ethiopic.etcp qee-ethiopic.etcp qe-ethiopic.etcp qo-ethiopic.etcp qoa-ethiopic.etcp qwa-ethiopic.etcp qwi-ethiopic.etcp qwaa-ethiopic.etcp qwee-ethiopic.etcp qwe-ethiopic.etcp qha-ethiopic.etcp qhu-ethiopic.etcp qhi-ethiopic.etcp qhaa-ethiopic.etcp qhee-ethiopic.etcp qhe-ethiopic.etcp qho-ethiopic.etcp qhwa-ethiopic.etcp qhwi-ethiopic.etcp qhwaa-ethiopic.etcp qhwee-ethiopic.etcp qhwe-ethiopic.etcp ba-ethiopic.etcp bu-ethiopic.etcp bi-ethiopic.etcp baa-ethiopic.etcp bee-ethiopic.etcp be-ethiopic.etcp bo-ethiopic.etcp bwa-ethiopic.etcp va-ethiopic.etcp vu-ethiopic.etcp vi-ethiopic.etcp vaa-ethiopic.etcp vee-ethiopic.etcp ve-ethiopic.etcp vo-ethiopic.etcp vwa-ethiopic.etcp ta-ethiopic.etcp tu-ethiopic.etcp ti-ethiopic.etcp taa-ethiopic.etcp tee-ethiopic.etcp te-ethiopic.etcp to-ethiopic.etcp twa-ethiopic.etcp ca-ethiopic.etcp cu-ethiopic.etcp ci-ethiopic.etcp caa-ethiopic.etcp cee-ethiopic.etcp ce-ethiopic.etcp co-ethiopic.etcp cwa-ethiopic.etcp xa-ethiopic.etcp xu-ethiopic.etcp xi-ethiopic.etcp xaa-ethiopic.etcp xee-ethiopic.etcp xe-ethiopic.etcp xo-ethiopic.etcp xoa-ethiopic.etcp xwa-ethiopic.etcp xwi-ethiopic.etcp xwaa-ethiopic.etcp xwee-ethiopic.etcp xwe-ethiopic.etcp na-ethiopic.etcp nu-ethiopic.etcp ni-ethiopic.etcp naa-ethiopic.etcp nee-ethiopic.etcp ne-ethiopic.etcp no-ethiopic.etcp nwa-ethiopic.etcp nya-ethiopic.etcp nyu-ethiopic.etcp nyi-ethiopic.etcp nyaa-ethiopic.etcp nyee-ethiopic.etcp nye-ethiopic.etcp nyo-ethiopic.etcp nywa-ethiopic.etcp aGlottal-ethiopic.etcp uGlottal-ethiopic.etcp iGlottal-ethiopic.etcp aaGlottal-ethiopic.etcp eeGlottal-ethiopic.etcp eGlottal-ethiopic.etcp oGlottal-ethiopic.etcp waGlottal-ethiopic.etcp ka-ethiopic.etcp ku-ethiopic.etcp ki-ethiopic.etcp kaa-ethiopic.etcp kee-ethiopic.etcp ke-ethiopic.etcp ko-ethiopic.etcp koa-ethiopic.etcp kwa-ethiopic.etcp kwi-ethiopic.etcp kwaa-ethiopic.etcp kwee-ethiopic.etcp kwe-ethiopic.etcp kxa-ethiopic.etcp kxu-ethiopic.etcp kxi-ethiopic.etcp kxaa-ethiopic.etcp kxee-ethiopic.etcp kxe-ethiopic.etcp kxo-ethiopic.etcp kxwa-ethiopic.etcp kxwi-ethiopic.etcp kxwaa-ethiopic.etcp kxwee-ethiopic.etcp kxwe-ethiopic.etcp wa-ethiopic.etcp wu-ethiopic.etcp wi-ethiopic.etcp waa-ethiopic.etcp wee-ethiopic.etcp we-ethiopic.etcp wo-ethiopic.etcp woa-ethiopic.etcp aPharyngeal-ethiopic.etcp uPharyngeal-ethiopic.etcp iPharyngeal-ethiopic.etcp aaPharyngeal-ethiopic.etcp eePharyngeal-ethiopic.etcp ePharyngeal-ethiopic.etcp oPharyngeal-ethiopic.etcp za-ethiopic.etcp zu-ethiopic.etcp zi-ethiopic.etcp zaa-ethiopic.etcp zee-ethiopic.etcp ze-ethiopic.etcp zo-ethiopic.etcp zwa-ethiopic.etcp zha-ethiopic.etcp zhu-ethiopic.etcp zhi-ethiopic.etcp zhaa-ethiopic.etcp zhee-ethiopic.etcp zhe-ethiopic.etcp zho-ethiopic.etcp zhwa-ethiopic.etcp ya-ethiopic.etcp yu-ethiopic.etcp yi-ethiopic.etcp yaa-ethiopic.etcp yee-ethiopic.etcp ye-ethiopic.etcp yo-ethiopic.etcp yoa-ethiopic.etcp da-ethiopic.etcp du-ethiopic.etcp di-ethiopic.etcp daa-ethiopic.etcp dee-ethiopic.etcp de-ethiopic.etcp do-ethiopic.etcp dwa-ethiopic.etcp dda-ethiopic.etcp ddu-ethiopic.etcp ddi-ethiopic.etcp ddaa-ethiopic.etcp ddee-ethiopic.etcp dde-ethiopic.etcp ddo-ethiopic.etcp ddwa-ethiopic.etcp ja-ethiopic.etcp ju-ethiopic.etcp ji-ethiopic.etcp jaa-ethiopic.etcp jee-ethiopic.etcp je-ethiopic.etcp jo-ethiopic.etcp jwa-ethiopic.etcp ga-ethiopic.etcp gu-ethiopic.etcp gi-ethiopic.etcp gaa-ethiopic.etcp gee-ethiopic.etcp ge-ethiopic.etcp go-ethiopic.etcp goa-ethiopic.etcp gwa-ethiopic.etcp gwi-ethiopic.etcp gwaa-ethiopic.etcp gwee-ethiopic.etcp gwe-ethiopic.etcp gga-ethiopic.etcp ggu-ethiopic.etcp ggi-ethiopic.etcp ggaa-ethiopic.etcp ggee-ethiopic.etcp gge-ethiopic.etcp ggo-ethiopic.etcp ggwaa-ethiopic.etcp tha-ethiopic.etcp thu-ethiopic.etcp thi-ethiopic.etcp thaa-ethiopic.etcp thee-ethiopic.etcp the-ethiopic.etcp tho-ethiopic.etcp thwa-ethiopic.etcp cha-ethiopic.etcp chu-ethiopic.etcp chi-ethiopic.etcp chaa-ethiopic.etcp chee-ethiopic.etcp che-ethiopic.etcp cho-ethiopic.etcp chwa-ethiopic.etcp pha-ethiopic.etcp phu-ethiopic.etcp phi-ethiopic.etcp phaa-ethiopic.etcp phee-ethiopic.etcp phe-ethiopic.etcp pho-ethiopic.etcp phwa-ethiopic.etcp tsa-ethiopic.etcp tsu-ethiopic.etcp tsi-ethiopic.etcp tsaa-ethiopic.etcp tsee-ethiopic.etcp tse-ethiopic.etcp tso-ethiopic.etcp tswa-ethiopic.etcp tza-ethiopic.etcp tzu-ethiopic.etcp tzi-ethiopic.etcp tzaa-ethiopic.etcp tzee-ethiopic.etcp tze-ethiopic.etcp tzo-ethiopic.etcp tzoa-ethiopic.etcp fa-ethiopic.etcp fu-ethiopic.etcp fi-ethiopic.etcp faa-ethiopic.etcp fee-ethiopic.etcp fe-ethiopic.etcp fo-ethiopic.etcp fwa-ethiopic.etcp pa-ethiopic.etcp pu-ethiopic.etcp pi-ethiopic.etcp paa-ethiopic.etcp pee-ethiopic.etcp pe-ethiopic.etcp po-ethiopic.etcp pwa-ethiopic.etcp rya-ethiopic.etcp";
@@ -32260,7 +32284,7 @@ width = 656;
 },
 {
 glyphname = da.base.cap;
-lastChange = "2021-01-01 21:00:48 +0000";
+lastChange = "2021-01-03 05:22:53 +0000";
 layers = (
 {
 anchors = (
@@ -32301,11 +32325,6 @@ name = neck;
 position = "{349, 665}";
 }
 );
-components = (
-{
-name = P;
-}
-);
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
 paths = (
 {
@@ -32336,6 +32355,62 @@ nodes = (
 "521 153 CURVE SMOOTH",
 "181 153 LINE",
 "181 237 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"161 0 LINE SMOOTH",
+"172 0 OFFCURVE",
+"181 9 OFFCURVE",
+"181 20 CURVE SMOOTH",
+"181 261.314 LINE",
+"184.461 258.634 OFFCURVE",
+"188.526 257 OFFCURVE",
+"193 257 CURVE SMOOTH",
+"480 257 LINE SMOOTH",
+"512 257 OFFCURVE",
+"550 292 OFFCURVE",
+"550 353 CURVE SMOOTH",
+"550 648 LINE SMOOTH",
+"550 677 OFFCURVE",
+"529 699 OFFCURVE",
+"496 699 CURVE SMOOTH",
+"197 699 LINE SMOOTH",
+"189.541 699 OFFCURVE",
+"183.242 693.205 OFFCURVE",
+"180.262 684.016 CURVE",
+"176.845 693.109 OFFCURVE",
+"161.751 700 OFFCURVE",
+"139 700 CURVE SMOOTH",
+"116 700 OFFCURVE",
+"100 692 OFFCURVE",
+"100 673 CURVE SMOOTH",
+"100 20 LINE SMOOTH",
+"100 9 OFFCURVE",
+"109 0 OFFCURVE",
+"120 0 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"181 656.181 LINE",
+"185.49 644.416 OFFCURVE",
+"195 643 OFFCURVE",
+"204 643 CURVE SMOOTH",
+"443 646 LINE SMOOTH",
+"463 646 OFFCURVE",
+"470 631 OFFCURVE",
+"470 602 CURVE SMOOTH",
+"470 360 LINE SMOOTH",
+"470 328 OFFCURVE",
+"464 311 OFFCURVE",
+"435 311 CURVE SMOOTH",
+"193 311 LINE SMOOTH",
+"188.526 311 OFFCURVE",
+"184.461 309.979 OFFCURVE",
+"181 308.132 CURVE"
 );
 }
 );

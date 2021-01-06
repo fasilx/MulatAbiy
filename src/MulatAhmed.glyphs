@@ -7,7 +7,8 @@ g,
 "/_smart.hee/shee-ethiopic",
 "/shee-ethiopic/_smart.hee/hee-ethiopic/lee-ethiopic/hhee-ethiopic/mee-ethiopic/szee-ethiopic/ree-ethiopic/see-ethiopic/qee-ethiopic/qhee-ethiopic/bee-ethiopic/vee-ethiopic/tee-ethiopic/cee-ethiopic/xee-ethiopic/nee-ethiopic/nyee-ethiopic/eeGlottal-ethiopic/kee-ethiopic/kxee-ethiopic/wee-ethiopic/eePharyngeal-ethiopic/zee-ethiopic/zhee-ethiopic/yee-ethiopic/dee-ethiopic/ddee-ethiopic/jee-ethiopic/gee-ethiopic/ggee-ethiopic/thee-ethiopic/chee-ethiopic/phee-ethiopic/tsee-ethiopic/tzee-ethiopic/fee-ethiopic/pee-ethiopic/hee-ethiopic.etcp/lee-ethiopic.etcp/hhee-ethiopic.etcp/mee-ethiopic.etcp/szee-ethiopic.etcp/ree-ethiopic.etcp/see-ethiopic.etcp/shee-ethiopic.etcp/qee-ethiopic.etcp/qhee-ethiopic.etcp/bee-ethiopic.etcp/vee-ethiopic.etcp/tee-ethiopic.etcp/cee-ethiopic.etcp/xee-ethiopic.etcp/nee-ethiopic.etcp/nyee-ethiopic.etcp/eeGlottal-ethiopic.etcp/kee-ethiopic.etcp/kxee-ethiopic.etcp/wee-ethiopic.etcp/eePharyngeal-ethiopic.etcp/zee-ethiopic.etcp/zhee-ethiopic.etcp/yee-ethiopic.etcp/dee-ethiopic.etcp/ddee-ethiopic.etcp/jee-ethiopic.etcp/gee-ethiopic.etcp/ggee-ethiopic.etcp/thee-ethiopic.etcp/chee-ethiopic.etcp/phee-ethiopic.etcp/tsee-ethiopic.etcp/tzee-ethiopic.etcp/fa.base.cap/fee-ethiopic.etcp/pee-ethiopic.etcp",
 "/da.base",
-"/da.base.cap"
+"/da.base.cap",
+"/sa.base.cap"
 );
 classes = (
 {
@@ -33275,10 +33276,14 @@ width = 541;
 },
 {
 glyphname = sa.base.cap;
-lastChange = "2020-12-30 21:51:35 +0000";
+lastChange = "2021-01-06 23:33:59 +0000";
 layers = (
 {
 anchors = (
+{
+name = cha;
+position = "{357, 746}";
+},
 {
 name = haa;
 position = "{592, -9}";
@@ -33286,6 +33291,10 @@ position = "{592, -9}";
 {
 name = haa.acute;
 position = "{326, 14}";
+},
+{
+name = he.acute;
+position = "{369, 213}";
 },
 {
 name = hee;
@@ -33306,6 +33315,10 @@ position = "{608, 477}";
 {
 name = hwa;
 position = "{590, -8}";
+},
+{
+name = neck;
+position = "{373, 196}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -33354,6 +33367,26 @@ nodes = (
 "172 700 OFFCURVE",
 "161 700 CURVE SMOOTH",
 "120 700 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"327 710 OFFCURVE",
+"326 701 OFFCURVE",
+"326 690 CURVE SMOOTH",
+"326 371 LINE SMOOTH",
+"326 352 OFFCURVE",
+"334 344 OFFCURVE",
+"357 344 CURVE SMOOTH",
+"383 344 OFFCURVE",
+"391 353 OFFCURVE",
+"391 364 CURVE SMOOTH",
+"391 690 LINE SMOOTH",
+"391 701 OFFCURVE",
+"390 710 OFFCURVE",
+"379 710 CURVE SMOOTH",
+"338 710 LINE SMOOTH"
 );
 }
 );

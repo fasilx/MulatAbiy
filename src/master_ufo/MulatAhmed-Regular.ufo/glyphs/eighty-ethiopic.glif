@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eighty-ethiopic" format="2">
+  <advance width="458"/>
+  <unicode hex="1379"/>
+  <outline>
+    <contour>
+      <point x="137" y="65" type="line"/>
+      <point x="192" y="65" type="line"/>
+      <point x="192" y="600" type="line"/>
+      <point x="272" y="600" type="line"/>
+      <point x="272" y="65" type="line"/>
+      <point x="326" y="65" type="line"/>
+      <point x="326" y="600" type="line"/>
+      <point x="391" y="600" type="line"/>
+      <point x="391" y="636" type="line"/>
+      <point x="67" y="636" type="line"/>
+      <point x="67" y="600" type="line"/>
+      <point x="137" y="600" type="line"/>
+    </contour>
+    <component base="_number.bar" xScale="0.8931" xOffset="6"/>
+  </outline>
+</glyph>

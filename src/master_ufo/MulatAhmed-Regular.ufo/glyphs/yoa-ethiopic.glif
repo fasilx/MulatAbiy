@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yoa-ethiopic" format="2">
+  <advance width="526"/>
+  <unicode hex="12EF"/>
+  <anchor x="-21" y="367" name="he"/>
+  <anchor x="223" y="134" name="hee"/>
+  <anchor x="449" y="363" name="hu"/>
+  <anchor x="30" y="23" name="yaa"/>
+  <anchor x="249" y="100" name="ye"/>
+  <anchor x="220" y="71" name="yi"/>
+  <anchor x="148" y="74" name="yu"/>
+  <outline>
+    <component base="ya.base"/>
+    <component base="_smart.hu" xOffset="451" yOffset="77"/>
+    <component base="_smart.he" xOffset="-34" yOffset="79"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.he</key>
+      <integer>1</integer>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cha-ethiopic.etcp" format="2">
+  <advance width="717"/>
+  <anchor x="357" y="54" name="cha"/>
+  <anchor x="586" y="-4" name="haa"/>
+  <anchor x="456" y="-178" name="haa.acute"/>
+  <anchor x="369" y="587" name="he.acute"/>
+  <anchor x="602" y="8" name="hee"/>
+  <anchor x="604" y="44" name="hi"/>
+  <anchor x="126" y="3" name="ho"/>
+  <anchor x="610" y="468" name="hu"/>
+  <anchor x="597" y="63" name="hwa"/>
+  <anchor x="373" y="604" name="neck"/>
+  <outline>
+    <component base="hha.base.cap"/>
+    <component base="_smart.cha" xOffset="360" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.cha</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

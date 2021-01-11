@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="100" default="100"/>
+  </axes>
+  <sources>
+    <source filename="MulatAhmed-Regular.ufo" name="Mulat Ahmed Regular" familyname="Mulat Ahmed" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>A36D14D1-FF07-4574-A62D-30DF65569781</key>
+        <dict/>
+      </dict>
+      <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+      <array>
+        <dict>
+          <key>class</key>
+          <string>KernFeatureWriter</string>
+          <key>options</key>
+          <dict>
+            <key>mode</key>
+            <string>append</string>
+          </dict>
+        </dict>
+        <dict>
+          <key>class</key>
+          <string>MarkFeatureWriter</string>
+          <key>options</key>
+          <dict>
+            <key>mode</key>
+            <string>skip</string>
+          </dict>
+        </dict>
+      </array>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>_bar.part</string>
+        <string>_bar.up</string>
+        <string>_diagonal.long</string>
+        <string>_diagonal.short</string>
+        <string>_number.bar</string>
+        <string>_part.ha</string>
+        <string>_part.haa</string>
+        <string>_part.hee</string>
+        <string>_part.hi</string>
+        <string>_part.ho</string>
+        <string>_part.hoa</string>
+        <string>_part.hoo</string>
+        <string>_part.hu</string>
+        <string>_smart.aGl</string>
+        <string>_smart.belt</string>
+        <string>_smart.cha</string>
+        <string>_smart.eGl</string>
+        <string>_smart.fa</string>
+        <string>_smart.haa</string>
+        <string>_smart.hat</string>
+        <string>_smart.hat.left</string>
+        <string>_smart.hat.left.aGl</string>
+        <string>_smart.hat.low</string>
+        <string>_smart.he</string>
+        <string>_smart.he.acute</string>
+        <string>_smart.he.outer</string>
+        <string>_smart.hee</string>
+        <string>_smart.hi</string>
+        <string>_smart.ho</string>
+        <string>_smart.hu</string>
+        <string>_smart.hwa</string>
+        <string>_smart.ka</string>
+        <string>_smart.neck</string>
+        <string>_smart.raa</string>
+        <string>_smart.ri</string>
+        <string>_smart.ring</string>
+        <string>_smart.ya</string>
+        <string>_smart.ye</string>
+        <string>_smart.yi</string>
+        <string>_smart.yu</string>
+        <string>_smart.zha</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

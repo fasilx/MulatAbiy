@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wordspace-ethiopic" format="2">
+  <advance width="233"/>
+  <unicode hex="1361"/>
+  <outline>
+    <contour>
+      <point x="83" y="74" type="curve" smooth="yes"/>
+      <point x="150" y="74" type="line" smooth="yes"/>
+      <point x="163" y="74"/>
+      <point x="173" y="84"/>
+      <point x="173" y="97" type="curve" smooth="yes"/>
+      <point x="173" y="166" type="line" smooth="yes"/>
+      <point x="173" y="179"/>
+      <point x="163" y="189"/>
+      <point x="150" y="189" type="curve" smooth="yes"/>
+      <point x="83" y="189" type="line" smooth="yes"/>
+      <point x="70" y="189"/>
+      <point x="60" y="179"/>
+      <point x="60" y="166" type="curve" smooth="yes"/>
+      <point x="60" y="97" type="line" smooth="yes"/>
+      <point x="60" y="84"/>
+      <point x="70" y="74"/>
+    </contour>
+    <contour>
+      <point x="83" y="395" type="curve" smooth="yes"/>
+      <point x="150" y="395" type="line" smooth="yes"/>
+      <point x="163" y="395"/>
+      <point x="173" y="405"/>
+      <point x="173" y="418" type="curve" smooth="yes"/>
+      <point x="173" y="486" type="line" smooth="yes"/>
+      <point x="173" y="499"/>
+      <point x="163" y="509"/>
+      <point x="150" y="509" type="curve" smooth="yes"/>
+      <point x="83" y="509" type="line" smooth="yes"/>
+      <point x="70" y="509"/>
+      <point x="60" y="499"/>
+      <point x="60" y="486" type="curve" smooth="yes"/>
+      <point x="60" y="418" type="line" smooth="yes"/>
+      <point x="60" y="405"/>
+      <point x="70" y="395"/>
+    </contour>
+  </outline>
+</glyph>

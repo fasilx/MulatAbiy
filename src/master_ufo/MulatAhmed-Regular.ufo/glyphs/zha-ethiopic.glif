@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zha-ethiopic" format="2">
+  <advance width="551"/>
+  <unicode hex="12E0"/>
+  <anchor x="424" y="-5" name="haa"/>
+  <anchor x="-18" y="463" name="he"/>
+  <anchor x="440" y="10" name="hee"/>
+  <anchor x="439" y="42" name="hi"/>
+  <anchor x="79" y="2" name="ho"/>
+  <anchor x="450" y="284" name="hu"/>
+  <anchor x="408" y="0" name="hwa"/>
+  <anchor x="235" y="517" name="zha"/>
+  <outline>
+    <component base="za.base"/>
+    <component base="_smart.zha" xOffset="228" yOffset="62"/>
+  </outline>
+</glyph>

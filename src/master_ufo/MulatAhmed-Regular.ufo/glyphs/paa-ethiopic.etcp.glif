@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paa-ethiopic.etcp" format="2">
+  <advance width="451"/>
+  <anchor x="300" y="69" name="haa"/>
+  <anchor x="173" y="844" name="hat"/>
+  <anchor x="106" y="43" name="he"/>
+  <anchor x="258" y="659" name="he.acute"/>
+  <anchor x="342" y="198" name="hee"/>
+  <anchor x="243" y="42" name="hi"/>
+  <anchor x="195" y="711" name="ho.ring"/>
+  <anchor x="258" y="456" name="hu"/>
+  <anchor x="230" y="55" name="hwa"/>
+  <anchor x="218" y="703" name="neck"/>
+  <outline>
+    <component base="pa.base.cap"/>
+  </outline>
+</glyph>

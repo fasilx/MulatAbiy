@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paa-ethiopic" format="2">
+  <advance width="449"/>
+  <unicode hex="1353"/>
+  <anchor x="307" y="69" name="haa"/>
+  <anchor x="163" y="660" name="hat"/>
+  <anchor x="84" y="44" name="he"/>
+  <anchor x="258" y="476" name="he.acute"/>
+  <anchor x="334" y="198" name="hee"/>
+  <anchor x="267" y="46" name="hi"/>
+  <anchor x="215" y="511" name="ho.ring"/>
+  <anchor x="268" y="286" name="hu"/>
+  <anchor x="220" y="5" name="hwa"/>
+  <anchor x="228" y="503" name="neck"/>
+  <outline>
+    <component base="pa.base"/>
+    <component base="_smart.he" xOffset="71" yOffset="-244"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.he</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

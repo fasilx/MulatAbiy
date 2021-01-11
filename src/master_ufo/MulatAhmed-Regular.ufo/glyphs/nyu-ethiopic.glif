@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyu-ethiopic" format="2">
+  <advance width="451"/>
+  <unicode hex="1299"/>
+  <anchor x="291" y="181" name="haa.acute"/>
+  <anchor x="76" y="674" name="hat"/>
+  <anchor x="-63" y="581" name="he"/>
+  <anchor x="334" y="11" name="hee"/>
+  <anchor x="350" y="43" name="hi"/>
+  <anchor x="352" y="284" name="hu"/>
+  <anchor x="314" y="2" name="hwa"/>
+  <outline>
+    <component base="na.base"/>
+    <component base="_smart.hu" xOffset="354" yOffset="-2"/>
+    <component base="_smart.hat" xOffset="76" yOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

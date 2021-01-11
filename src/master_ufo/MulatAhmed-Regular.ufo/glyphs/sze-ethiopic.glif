@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sze-ethiopic" format="2">
+  <advance width="721"/>
+  <unicode hex="1225"/>
+  <anchor x="584" y="-9" name="haa"/>
+  <anchor x="326" y="-16" name="haa.acute"/>
+  <anchor x="520" y="-25" name="hee"/>
+  <anchor x="588" y="-148" name="hi"/>
+  <anchor x="80" y="-15" name="ho"/>
+  <anchor x="628" y="287" name="hu"/>
+  <anchor x="583" y="-8" name="hwa"/>
+  <outline>
+    <component base="sa.base"/>
+    <component base="_smart.haa.acute" xOffset="326" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine-ethiopic" format="2">
+  <advance width="499"/>
+  <unicode hex="1371"/>
+  <outline>
+    <contour>
+      <point x="356" y="84" type="line" smooth="yes"/>
+      <point x="414" y="83"/>
+      <point x="421" y="130"/>
+      <point x="421" y="148" type="curve" smooth="yes"/>
+      <point x="421" y="552" type="line" smooth="yes"/>
+      <point x="421" y="586"/>
+      <point x="400" y="612"/>
+      <point x="337" y="613" type="curve"/>
+      <point x="337" y="564" type="line"/>
+      <point x="339" y="564" type="line" smooth="yes"/>
+      <point x="352" y="564"/>
+      <point x="355" y="561"/>
+      <point x="355" y="549" type="curve" smooth="yes"/>
+      <point x="355" y="433" type="line"/>
+      <point x="133" y="433" type="line"/>
+      <point x="133" y="549" type="line" smooth="yes"/>
+      <point x="133" y="559"/>
+      <point x="135" y="563"/>
+      <point x="144" y="564" type="curve"/>
+      <point x="143" y="612" type="line"/>
+      <point x="91" y="606"/>
+      <point x="70" y="584"/>
+      <point x="70" y="552" type="curve" smooth="yes"/>
+      <point x="70" y="154" type="line" smooth="yes"/>
+      <point x="70" y="122"/>
+      <point x="84" y="88"/>
+      <point x="140" y="87" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="146" y="135" type="line" smooth="yes"/>
+      <point x="136" y="135"/>
+      <point x="133" y="139"/>
+      <point x="133" y="150" type="curve" smooth="yes"/>
+      <point x="133" y="394" type="line"/>
+      <point x="355" y="394" type="line"/>
+      <point x="355" y="150" type="line" smooth="yes"/>
+      <point x="355" y="139"/>
+      <point x="352" y="135"/>
+      <point x="339" y="135" type="curve" smooth="yes"/>
+    </contour>
+    <component base="_number.bar"/>
+  </outline>
+</glyph>

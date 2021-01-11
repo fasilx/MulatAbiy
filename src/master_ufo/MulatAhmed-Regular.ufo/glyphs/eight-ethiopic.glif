@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight-ethiopic" format="2">
+  <advance width="499"/>
+  <unicode hex="1370"/>
+  <outline>
+    <contour>
+      <point x="154" y="97" type="line"/>
+      <point x="154" y="62" type="line"/>
+      <point x="303" y="62" type="line"/>
+      <point x="303" y="97" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="638" type="line"/>
+      <point x="132" y="579" type="line"/>
+      <point x="338" y="579" type="line"/>
+      <point x="338" y="638" type="line"/>
+    </contour>
+    <component base="_number.bar"/>
+    <component base="one" xScale="0.8227" yScale="0.8227" xOffset="121" yOffset="62"/>
+  </outline>
+</glyph>

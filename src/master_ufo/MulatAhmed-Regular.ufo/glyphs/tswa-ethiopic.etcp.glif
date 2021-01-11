@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tswa-ethiopic.etcp" format="2">
+  <advance width="688"/>
+  <anchor x="560" y="-3" name="haa"/>
+  <anchor x="375" y="635" name="hat"/>
+  <anchor x="592" y="404" name="he"/>
+  <anchor x="563" y="10" name="hee"/>
+  <anchor x="566" y="43" name="hi"/>
+  <anchor x="121" y="-4" name="ho"/>
+  <anchor x="573" y="152" name="hu"/>
+  <anchor x="562" y="57" name="hwa"/>
+  <anchor x="352" y="643" name="neck"/>
+  <outline>
+    <component base="tsa.base.cap"/>
+    <component base="_smart.hwa" xOffset="557" yOffset="64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

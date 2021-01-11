@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four-ethiopic" format="2">
+  <advance width="499"/>
+  <unicode hex="136C"/>
+  <outline>
+    <component base="_number.bar"/>
+    <component base="zero" xScale="0.8227" yScale="0.8227" xOffset="28" yOffset="62"/>
+  </outline>
+</glyph>

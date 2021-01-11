@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fee-ethiopic.etcp" format="2">
+  <advance width="581"/>
+  <outline>
+    <component base="fa.base.cap"/>
+    <component base="_smart.hee" xOffset="518" yOffset="234"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

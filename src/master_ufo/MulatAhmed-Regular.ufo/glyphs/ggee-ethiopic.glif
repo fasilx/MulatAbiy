@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ggee-ethiopic" format="2">
+  <advance width="521"/>
+  <unicode hex="131C"/>
+  <anchor x="369" y="132" name="haa.acute"/>
+  <anchor x="212" y="651" name="hat"/>
+  <anchor x="240" y="289" name="he"/>
+  <anchor x="411" y="21" name="hee"/>
+  <anchor x="420" y="54" name="hi"/>
+  <anchor x="57" y="289" name="ho.ring"/>
+  <anchor x="422" y="287" name="hu"/>
+  <anchor x="393" y="8" name="hwa"/>
+  <anchor x="217" y="510" name="neck"/>
+  <anchor x="137" y="575" name="ring"/>
+  <outline>
+    <component base="ga.base"/>
+    <component base="_smart.hee" xOffset="411" yOffset="5"/>
+    <component base="_smart.neck" xOffset="213" yOffset="9"/>
+    <component base="_smart.hat" xOffset="212" yOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

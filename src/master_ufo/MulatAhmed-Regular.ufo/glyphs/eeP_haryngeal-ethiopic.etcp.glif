@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eePharyngeal-ethiopic.etcp" format="2">
+  <advance width="665"/>
+  <anchor x="363" y="284" name="belt"/>
+  <anchor x="470" y="-2" name="haa"/>
+  <anchor x="266" y="-3" name="haa.acute"/>
+  <anchor x="351" y="-131" name="he"/>
+  <anchor x="423" y="-14" name="hee"/>
+  <anchor x="485" y="-137" name="hi"/>
+  <anchor x="412" y="-1" name="ho"/>
+  <anchor x="569" y="474" name="hu"/>
+  <anchor x="438" y="1" name="hwa"/>
+  <anchor x="337" y="682" name="neck"/>
+  <anchor x="355" y="647" name="top"/>
+  <outline>
+    <component base="aPh.base.cap"/>
+    <component base="_smart.hee" xOffset="423" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

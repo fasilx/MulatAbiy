@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE01B" format="2">
+  <advance width="243"/>
+  <note>
+uniE01B
+</note>
+  <outline>
+    <contour>
+      <point x="60" y="571" type="line"/>
+      <point x="128" y="571" type="line"/>
+      <point x="203" y="714" type="line"/>
+      <point x="93" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHW[ ]	/* 1 value pushed */
+20 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+2 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+1 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+0 10 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

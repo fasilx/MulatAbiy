@@ -5,6 +5,6 @@ deployment:
     - mkdir -p $DEPLOYPATH/ahmed
     - /bin/cp MulatAhmed-*.* $DEPLOYPATH/ahmed
     - /bin/cp README.md $DEPLOYPATH/ahmed
-    - zip ahmed.zip $DEPLOYPATH/ahmed/*
+    - zip -mj ahmed.zip $DEPLOYPATH/ahmed/*
     - mv ahmed.zip $DEPLOYPATH/ahmed
     - echo "....finished........"

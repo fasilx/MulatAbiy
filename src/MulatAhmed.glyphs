@@ -54,6 +54,14 @@ value = (
 {
 name = vendorID;
 value = MULT;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2018-12-01 07:21:33 +0000";

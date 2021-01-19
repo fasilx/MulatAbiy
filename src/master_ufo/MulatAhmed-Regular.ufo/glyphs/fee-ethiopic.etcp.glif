@@ -3,7 +3,7 @@
   <advance width="581"/>
   <outline>
     <component base="fa.base.cap"/>
-    <component base="_smart.hee" xOffset="518" yOffset="234"/>
+    <component base="_smart.hee" xOffset="468" yOffset="254"/>
   </outline>
   <lib>
     <dict>

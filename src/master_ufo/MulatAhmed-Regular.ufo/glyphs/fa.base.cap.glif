@@ -4,9 +4,9 @@
   <anchor x="250" y="52" name="_fa"/>
   <anchor x="317" y="5" name="haa"/>
   <anchor x="301" y="10" name="haa.acute"/>
-  <anchor x="518" y="250" name="hee"/>
+  <anchor x="468" y="270" name="hee"/>
   <anchor x="342" y="-6" name="hwa"/>
-  <anchor x="453" y="37" name="ri"/>
+  <anchor x="453" y="38" name="ri"/>
   <anchor x="416" y="475" name="ring"/>
   <anchor x="265" y="264" name="top"/>
   <outline>

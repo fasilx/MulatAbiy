@@ -3,11 +3,11 @@
   <advance width="868"/>
   <anchor x="419" y="-6" name="haa"/>
   <anchor x="432" y="-13" name="haa.acute"/>
-  <anchor x="404" y="827" name="hat"/>
-  <anchor x="336" y="-142" name="he"/>
-  <anchor x="415" y="673" name="he.acute"/>
+  <anchor x="383" y="827" name="hat"/>
+  <anchor x="266" y="-142" name="he"/>
+  <anchor x="515" y="673" name="he.acute"/>
   <anchor x="441" y="-24" name="hee"/>
-  <anchor x="433" y="-141" name="hi"/>
+  <anchor x="463" y="-141" name="hi"/>
   <anchor x="417" y="703" name="ho.ring"/>
   <anchor x="760" y="478" name="hu"/>
   <anchor x="433" y="-15" name="hwa"/>
@@ -17,7 +17,7 @@
     <component base="_smart.neck" xOffset="411" yOffset="190"/>
     <component base="_smart.haa" xOffset="420" yOffset="1"/>
     <component base="_smart.hu" xOffset="762" yOffset="192"/>
-    <component base="_smart.hat" xOffset="404" yOffset="161"/>
+    <component base="_smart.hat" xOffset="383" yOffset="161"/>
   </outline>
   <lib>
     <dict>

@@ -8,15 +8,11 @@
     <string>3039</string>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
-      <string>4</string>
-      <string>r</string>
-      <string>g</string>
-      <string>/_smart.hee/shee-ethiopic</string>
-      <string>/shee-ethiopic/_smart.hee/hee-ethiopic/lee-ethiopic/hhee-ethiopic/mee-ethiopic/szee-ethiopic/ree-ethiopic/see-ethiopic/qee-ethiopic/qhee-ethiopic/bee-ethiopic/vee-ethiopic/tee-ethiopic/cee-ethiopic/xee-ethiopic/nee-ethiopic/nyee-ethiopic/eeGlottal-ethiopic/kee-ethiopic/kxee-ethiopic/wee-ethiopic/eePharyngeal-ethiopic/zee-ethiopic/zhee-ethiopic/yee-ethiopic/dee-ethiopic/ddee-ethiopic/jee-ethiopic/gee-ethiopic/ggee-ethiopic/thee-ethiopic/chee-ethiopic/phee-ethiopic/tsee-ethiopic/tzee-ethiopic/fee-ethiopic/pee-ethiopic/hee-ethiopic.etcp/lee-ethiopic.etcp/hhee-ethiopic.etcp/mee-ethiopic.etcp/szee-ethiopic.etcp/ree-ethiopic.etcp/see-ethiopic.etcp/shee-ethiopic.etcp/qee-ethiopic.etcp/qhee-ethiopic.etcp/bee-ethiopic.etcp/vee-ethiopic.etcp/tee-ethiopic.etcp/cee-ethiopic.etcp/xee-ethiopic.etcp/nee-ethiopic.etcp/nyee-ethiopic.etcp/eeGlottal-ethiopic.etcp/kee-ethiopic.etcp/kxee-ethiopic.etcp/wee-ethiopic.etcp/eePharyngeal-ethiopic.etcp/zee-ethiopic.etcp/zhee-ethiopic.etcp/yee-ethiopic.etcp/dee-ethiopic.etcp/ddee-ethiopic.etcp/jee-ethiopic.etcp/gee-ethiopic.etcp/ggee-ethiopic.etcp/thee-ethiopic.etcp/chee-ethiopic.etcp/phee-ethiopic.etcp/tsee-ethiopic.etcp/tzee-ethiopic.etcp/fa.base.cap/fee-ethiopic.etcp/pee-ethiopic.etcp</string>
-      <string>/da.base</string>
-      <string>/da.base.cap</string>
-      <string>/sa.base.cap</string>
-      <string>/aGl.base.cap/aGlottal-ethiopic.etcp</string>
+      <string>/ka-ethiopic</string>
+      <string>/qhi-ethiopic.etcp/qa-ethiopic.etcp/qu-ethiopic.etcp/qi-ethiopic.etcp/qaa-ethiopic.etcp/qee-ethiopic.etcp/qe-ethiopic.etcp/qo-ethiopic.etcp/qoa-ethiopic.etcp/qwa-ethiopic.etcp/qwi-ethiopic.etcp/qwaa-ethiopic.etcp/qwee-ethiopic.etcp/qwe-ethiopic.etcp/qha-ethiopic.etcp/qhu-ethiopic.etcp/qhaa-ethiopic.etcp/qhee-ethiopic.etcp/wa.base.cap/qhe-ethiopic.etcp/qho-ethiopic.etcp/qhwa-ethiopic.etcp/wa.base.cap/qhwi-ethiopic.etcp/qhwaa-ethiopic.etcp/qhwee-ethiopic.etcp/qhwe-ethiopic.etcp/wa-ethiopic.etcp/wu-ethiopic.etcp/wi-ethiopic.etcp/waa-ethiopic.etcp/wee-ethiopic.etcp/we-ethiopic.etcp/wo-ethiopic.etcp/woa-ethiopic.etcp</string>
+      <string>/ga.base/gge-ethiopic</string>
+      <string>/na.base.cap</string>
+      <string>/fa.base.cap/fee-ethiopic.etcp</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>

@@ -4,6 +4,13 @@ Mulat is a Unicode typeface family that supports all languages that use the Lati
 ## Change Log
 Versioning format: MAJOR.SIGNIFICANTMINORPATCH
 
+[1.001]
+Change:
+- fix the shape of cap ne-ethiopics.etcp
+- .cpanel removes options -mj from zip command (not just j)
+- tsa.base fix proportionality
+- fliped aGl.cap and chane the neck on ka.ethiopics and few more
+
 
 ## Contribute
 To contribute to the project see https://github.com/fasilx/ and open a pull request.

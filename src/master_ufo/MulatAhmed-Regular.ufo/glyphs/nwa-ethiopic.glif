@@ -6,14 +6,17 @@
   <anchor x="228" y="660" name="hat"/>
   <anchor x="-13" y="282" name="he"/>
   <anchor x="354" y="263" name="ho.ring"/>
-  <anchor x="398" y="0" name="hwa"/>
+  <anchor x="361" y="0" name="hwa"/>
   <anchor x="251" y="504" name="top"/>
   <outline>
     <component base="re.base"/>
-    <component base="_smart.hwa" xOffset="393" yOffset="7"/>
+    <component base="_smart.hwa" xOffset="356" yOffset="7"/>
+    <component base="_smart.haa" xOffset="411" yOffset="10"/>
   </outline>
   <lib>
     <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
       <key>_smart.hwa</key>
       <integer>1</integer>
     </dict>

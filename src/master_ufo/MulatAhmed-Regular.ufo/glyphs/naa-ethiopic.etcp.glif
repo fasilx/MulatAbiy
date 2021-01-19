@@ -6,7 +6,7 @@
   <anchor x="348" y="760" name="hat"/>
   <anchor x="39" y="282" name="he"/>
   <anchor x="358" y="453" name="ho.ring"/>
-  <anchor x="428" y="0" name="hwa"/>
+  <anchor x="385" y="0" name="hwa"/>
   <anchor x="371" y="504" name="top"/>
   <outline>
     <component base="re.base.cap"/>

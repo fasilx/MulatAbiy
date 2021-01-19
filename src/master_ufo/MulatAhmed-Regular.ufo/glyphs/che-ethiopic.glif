@@ -12,10 +12,11 @@
   <anchor x="635" y="288" name="hu"/>
   <anchor x="596" y="-4" name="hwa"/>
   <anchor x="333" y="504" name="neck"/>
+  <anchor x="289" y="-275" name="top"/>
   <outline>
     <component base="hha.base"/>
-    <component base="_smart.haa.acute" yScale="-1" xOffset="437" yOffset="-150"/>
     <component base="_smart.cha" xOffset="340" yOffset="3"/>
+    <component base="acute" xOffset="208" yOffset="-784"/>
   </outline>
   <lib>
     <dict>

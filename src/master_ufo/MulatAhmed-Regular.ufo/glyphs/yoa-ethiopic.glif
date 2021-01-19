@@ -8,7 +8,7 @@
   <anchor x="30" y="23" name="yaa"/>
   <anchor x="249" y="100" name="ye"/>
   <anchor x="220" y="71" name="yi"/>
-  <anchor x="148" y="74" name="yu"/>
+  <anchor x="148" y="111" name="yu"/>
   <outline>
     <component base="ya.base"/>
     <component base="_smart.hu" xOffset="451" yOffset="77"/>
